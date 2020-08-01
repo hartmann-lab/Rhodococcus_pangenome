@@ -1,0 +1,4313 @@
+representative	COG_1	COG_2	COG_3
+TG9_prok_00002	K		
+TG9_prok_00003	K		
+TG9_prok_00004	L		
+TG9_prok_00005	L		
+TG9_prok_00007	L		
+TG9_prok_00008	L		
+TG9_prok_00009	L		
+TG9_prok_00010	L		
+TG9_prok_00011	K		
+TG9_prok_00012	S		
+TG9_prok_00013	Q		
+TG9_prok_00014	Q		
+TG9_prok_00015	K		
+TG9_prok_00016			
+TG9_prok_00017	O		
+TG9_prok_00018	O		
+TG9_prok_00019	O		
+TG9_prok_00020			
+TG9_prok_00021	O		
+TG9_prok_00022	O		
+TG9_prok_00023	O		
+TG9_prok_00024	O		
+TG9_prok_00025	S		
+TG9_prok_00026	O		
+TG9_prok_00027	S		
+TG9_prok_00028	L		
+TG9_prok_00029	L		
+TG9_prok_00032			
+TG9_prok_00033			
+TG9_prok_00034	L		
+TG9_prok_00035			
+TG9_prok_00036	S		
+TG9_prok_00037	C		
+TG9_prok_00038	Q		
+TG9_prok_00039	D		
+TG9_prok_00040	L		
+TG9_prok_00041	L		
+TG9_prok_00042			
+TG9_prok_00044	K		
+TG9_prok_00046	K		
+TG9_prok_00047	I		
+TG9_prok_00048	V		
+TG9_prok_00049	L		
+TG9_prok_00050	L		
+TG9_prok_00051	L		
+TG9_prok_00052	L		
+TG9_prok_00053	K		
+TG9_prok_00054	E		
+TG9_prok_00055	P		
+TG9_prok_00056	S		
+TG9_prok_00057	C		
+TG9_prok_00058	S		
+TG9_prok_00059			
+TG9_prok_00060	K		
+TG9_prok_00061	C		
+TG9_prok_00062	C		
+TG9_prok_00063	I		
+TG9_prok_00064	C		
+TG9_prok_00065	E		
+TG9_prok_00066	S		
+TG9_prok_00067	T		
+TG9_prok_00068	T		
+TG9_prok_00069	G		
+TG9_prok_00070	S		
+TG9_prok_00071	P		
+TG9_prok_00072	H		
+TG9_prok_00074	S		
+TG9_prok_00075	Q		
+TG9_prok_00076	K		
+TG9_prok_00078	K		
+TG9_prok_00079	Q		
+TG9_prok_00080			
+TG9_prok_00081	Q		
+TG9_prok_00082	K		
+TG9_prok_00083	S		
+TG9_prok_00084	T		
+TG9_prok_00085	T		
+TG9_prok_00087	S		
+TG9_prok_00088	L		
+TG9_prok_00089	L		
+TG9_prok_00090	L		
+TG9_prok_00091	K		
+TG9_prok_00092	L		
+TG9_prok_00093			
+TG9_prok_00094	K		
+TG9_prok_00095	Q		
+TG9_prok_00096	S		
+TG9_prok_00097	S		
+TG9_prok_00098	I		
+TG9_prok_00099	K		
+TG9_prok_00100	C		
+TG9_prok_00101	S		
+TG9_prok_00102	H		
+TG9_prok_00103	K		
+TG9_prok_00104	E		
+TG9_prok_00105	E		
+TG9_prok_00106	E		
+TG9_prok_00107	H		
+TG9_prok_00108	K		
+TG9_prok_00109	S		
+TG9_prok_00110	K		
+TG9_prok_00111			
+TG9_prok_00112	S		
+TG9_prok_00113			
+TG9_prok_00114	S		
+TG9_prok_00115	K		
+TG9_prok_00116	C		
+TG9_prok_00118	V		
+TG9_prok_00119			
+TG9_prok_00120	S		
+TG9_prok_00122			
+TG9_prok_00123	L		
+TG9_prok_00125	L		
+TG9_prok_00126	L		
+TG9_prok_00128	V		
+TG9_prok_00129	V		
+TG9_prok_00130			
+TG9_prok_00131			
+TG9_prok_00133	E		
+TG9_prok_00134	E		
+TG9_prok_00135	S		
+TG9_prok_00136	T		
+TG9_prok_00137	K		
+TG9_prok_00138	I		
+TG9_prok_00139	C		
+TG9_prok_00140			
+TG9_prok_00141	I		
+TG9_prok_00142	S		
+TG9_prok_00143	K		
+TG9_prok_00144	N	 U	
+TG9_prok_00145			
+TG9_prok_00146	S		
+TG9_prok_00147	O		
+TG9_prok_00148			
+TG9_prok_00149	S		
+TG9_prok_00151	S		
+TG9_prok_00152	I		
+TG9_prok_00153	I		
+TG9_prok_00154	Q		
+TG9_prok_00155	Q		
+TG9_prok_00156	K		
+TG9_prok_00157	I		
+TG9_prok_00158	S		
+TG9_prok_00159	S		
+TG9_prok_00161	G		
+TG9_prok_00162	S		
+TG9_prok_00163	J		
+TG9_prok_00164	I		
+TG9_prok_00165	I	 Q	
+TG9_prok_00166	I		
+TG9_prok_00167	C		
+TG9_prok_00168	K		
+TG9_prok_00169	K		
+TG9_prok_00170	S		
+TG9_prok_00171			
+TG9_prok_00172	L		
+TG9_prok_00173	S		
+TG9_prok_00175	O		
+TG9_prok_00176			
+TG9_prok_00177	O		
+TG9_prok_00178	O		
+TG9_prok_00179	O		
+TG9_prok_00180			
+TG9_prok_00181	O		
+TG9_prok_00182	O		
+TG9_prok_00183	O		
+TG9_prok_00184	S		
+TG9_prok_00185	T		
+TG9_prok_00186	T		
+TG9_prok_00187			
+TG9_prok_00188	S		
+TG9_prok_00189	I		
+TG9_prok_00190	S		
+TG9_prok_00191	I		
+TG9_prok_00192	S		
+TG9_prok_00193	Q		
+TG9_prok_00194	Q		
+TG9_prok_00195	Q		
+TG9_prok_00196	K		
+TG9_prok_00197	K		
+TG9_prok_00198	S		
+TG9_prok_00199	Q		
+TG9_prok_00201	K		
+TG9_prok_00202	Q		
+TG9_prok_00203	C		
+TG9_prok_00204	Q		
+TG9_prok_00205	Q		
+TG9_prok_00206	C		
+TG9_prok_00207	C		
+TG9_prok_00208	G		
+TG9_prok_00209	K		
+TG9_prok_00210	Q		
+TG9_prok_00211	L		
+TG9_prok_00212	S		
+TG9_prok_00213	K		
+TG9_prok_00214	C		
+TG9_prok_00215	C		
+TG9_prok_00216			
+TG9_prok_00217	S		
+TG9_prok_00218	S		
+TG9_prok_00219	E		
+TG9_prok_00220	E		
+TG9_prok_00221	S		
+TG9_prok_00222	E		
+TG9_prok_00223	K		
+TG9_prok_00224	S		
+TG9_prok_00225	S		
+TG9_prok_00226	F		
+TG9_prok_00227	S		
+TG9_prok_00228	S		
+TG9_prok_00229	K		
+TG9_prok_00230			
+TG9_prok_00231	S		
+TG9_prok_00232	S		
+TG9_prok_00233	S		
+TG9_prok_00234	S		
+TG9_prok_00235	G		
+TG9_prok_00236	Q		
+TG9_prok_00237	S		
+TG9_prok_00239	I		
+TG9_prok_00240	K		
+TG9_prok_00241			
+TG9_prok_00244	S		
+TG9_prok_00245	S		
+TG9_prok_00247	S		
+TG9_prok_00248	K		
+TG9_prok_00249	E		
+TG9_prok_00252	S		
+TG9_prok_00253	S		
+TG9_prok_00254	C		
+TG9_prok_00255	E		
+TG9_prok_00256	L		
+TG9_prok_00257	L		
+TG9_prok_00258			
+TG9_prok_00259			
+TG9_prok_00260	L		
+TG9_prok_00261	L		
+TG9_prok_00263			
+TG9_prok_00264			
+TG9_prok_00265	S		
+TG9_prok_00266			
+TG9_prok_00268	K		
+TG9_prok_00269	S		
+TG9_prok_00270	C		
+TG9_prok_00272	S		
+TG9_prok_00273			
+TG9_prok_00274	S		
+TG9_prok_00275	O		
+TG9_prok_00276	O		
+TG9_prok_00277	O		
+TG9_prok_00278	O		
+TG9_prok_00279	O		
+TG9_prok_00280	M		
+TG9_prok_00281	M		
+TG9_prok_00282	G		
+TG9_prok_00283	E		
+TG9_prok_00285	S		
+TG9_prok_00286	K		
+TG9_prok_00287	G		
+TG9_prok_00288	P		
+TG9_prok_00291	G		
+TG9_prok_00292	G		
+TG9_prok_00293	P		
+TG9_prok_00294	S		
+TG9_prok_00296	V		
+TG9_prok_00297	S		
+TG9_prok_00298	L		
+TG9_prok_00299	M		
+TG9_prok_00300	G		
+TG9_prok_00301	C		
+TG9_prok_00302	S		
+TG9_prok_00303	H		
+TG9_prok_00304	L		
+TG9_prok_00305	S		
+TG9_prok_00306	T		
+TG9_prok_00307	L		
+TG9_prok_00308	L		
+TG9_prok_00309	L		
+TG9_prok_00310	L		
+TG9_prok_00311	T		
+TG9_prok_00312	T		
+TG9_prok_00313	T		
+TG9_prok_00315	Q		
+TG9_prok_00316	S		
+TG9_prok_00318	P		
+TG9_prok_00319	S		
+TG9_prok_00320	Q		
+TG9_prok_00321	P		
+TG9_prok_00322	P		
+TG9_prok_00324	P		
+TG9_prok_00326	S		
+TG9_prok_00328	S		
+TG9_prok_00329	S		
+TG9_prok_00330	I		
+TG9_prok_00331	M		
+TG9_prok_00332	K		
+TG9_prok_00333	P		
+TG9_prok_00334	P		
+TG9_prok_00335	U		
+TG9_prok_00336	P		
+TG9_prok_00337	K		
+TG9_prok_00338	S		
+TG9_prok_00339	L		
+TG9_prok_00340	S		
+TG9_prok_00341	I		
+TG9_prok_00342	Q		
+TG9_prok_00343	K		
+TG9_prok_00344	G		
+TG9_prok_00345	C		
+TG9_prok_00346	S		
+TG9_prok_00347	S		
+TG9_prok_00348	I		
+TG9_prok_00349	S		
+TG9_prok_00350	I		
+TG9_prok_00351	I		
+TG9_prok_00352	C		
+TG9_prok_00353	E		
+TG9_prok_00354	L		
+TG9_prok_00355	E		
+TG9_prok_00356	C		
+TG9_prok_00357	C		
+TG9_prok_00358	L		
+TG9_prok_00359	L		
+TG9_prok_00360	L		
+TG9_prok_00361	L		
+TG9_prok_00362	L		
+TG9_prok_00363	L		
+TG9_prok_00364	L		
+TG9_prok_00365	L		
+TG9_prok_00366	L		
+TG9_prok_00368	K		
+TG9_prok_00369	G		
+TG9_prok_00371	L		
+TG9_prok_00372	L		
+TG9_prok_00373	L		
+TG9_prok_00374	L		
+TG9_prok_00375	S		
+TG9_prok_00376	S		
+TG9_prok_00377	K		
+TG9_prok_00380	L		
+TG9_prok_00381			
+TG9_prok_00382	L		
+TG9_prok_00383			
+TG9_prok_00384			
+TG9_prok_00385			
+TG9_prok_00386			
+TG9_prok_00387	L		
+TG9_prok_00389			
+TG9_prok_00390	S		
+TG9_prok_00391	F		
+TG9_prok_00392	F		
+TG9_prok_00393	S		
+TG9_prok_00394	K		
+TG9_prok_00395	S		
+TG9_prok_00396	T		
+TG9_prok_00397	T		
+TG9_prok_00398	T		
+TG9_prok_00399			
+TG9_prok_00400	G		
+TG9_prok_00401	S		
+TG9_prok_00402	S		
+TG9_prok_00403			
+TG9_prok_00404	T		
+TG9_prok_00405	S		
+TG9_prok_00406	S		
+TG9_prok_00407	S		
+TG9_prok_00408	S		
+TG9_prok_00409	I	 Q	
+TG9_prok_00410	S		
+TG9_prok_00411	I		
+TG9_prok_00412	I		
+TG9_prok_00413	K		
+TG9_prok_00414	K		
+TG9_prok_00415	S		
+TG9_prok_00416			
+TG9_prok_00417	I		
+TG9_prok_00418	I		
+TG9_prok_00419	I		
+TG9_prok_00420	I	 Q	
+TG9_prok_00421	S		
+TG9_prok_00422	I		
+TG9_prok_00423	G		
+TG9_prok_00424	C		
+TG9_prok_00425	I		
+TG9_prok_00426	I		
+TG9_prok_00427	S		
+TG9_prok_00428	S		
+TG9_prok_00429	S		
+TG9_prok_00431	P		
+TG9_prok_00432	S		
+TG9_prok_00433	Q		
+TG9_prok_00434	Q		
+TG9_prok_00435	Q		
+TG9_prok_00436	K		
+TG9_prok_00437	S		
+TG9_prok_00438	I		
+TG9_prok_00439	I		
+TG9_prok_00440	K		
+TG9_prok_00441	G		
+TG9_prok_00442	I		
+TG9_prok_00443	I		
+TG9_prok_00444	I		
+TG9_prok_00445	I		
+TG9_prok_00446	K		
+TG9_prok_00447			
+TG9_prok_00448	S		
+TG9_prok_00449	T		
+TG9_prok_00450	T		
+TG9_prok_00451			
+TG9_prok_00452	C		
+TG9_prok_00453	O		
+TG9_prok_00454	K		
+TG9_prok_00457	S		
+TG9_prok_00458	S		
+TG9_prok_00459	O		
+TG9_prok_00461	C		
+TG9_prok_00462	C		
+TG9_prok_00463	C		
+TG9_prok_00464	S		
+TG9_prok_00465	K		
+TG9_prok_00466	T		
+TG9_prok_00467	S		
+TG9_prok_00468	S		
+TG9_prok_00469	E		
+TG9_prok_00470	E		
+TG9_prok_00471	E		
+TG9_prok_00472	E		
+TG9_prok_00474			
+TG9_prok_00475	E		
+TG9_prok_00476			
+TG9_prok_00477	S		
+TG9_prok_00478	K		
+TG9_prok_00479	G		
+TG9_prok_00480	S		
+TG9_prok_00481	Q		
+TG9_prok_00482	K		
+TG9_prok_00483	K		
+TG9_prok_00484	P		
+TG9_prok_00485	T		
+TG9_prok_00486	S		
+TG9_prok_00487	E		
+TG9_prok_00488	K		
+TG9_prok_00489	E		
+TG9_prok_00490	L		
+TG9_prok_00491	J		
+TG9_prok_00492	J		
+TG9_prok_00493	L		
+TG9_prok_00494	J		
+TG9_prok_00495	S		
+TG9_prok_00496	J		
+TG9_prok_00497	S		
+TG9_prok_00499	K		
+TG9_prok_00500	L		
+TG9_prok_00501			
+TG9_prok_00502	S		
+TG9_prok_00504			
+TG9_prok_00505	P		
+TG9_prok_00506			
+TG9_prok_00507	K		
+TG9_prok_00508	S		
+TG9_prok_00509	M		
+TG9_prok_00510			
+TG9_prok_00511	K		
+TG9_prok_00512	I		
+TG9_prok_00513	S		
+TG9_prok_00514	S		
+TG9_prok_00515	I		
+TG9_prok_00516	K		
+TG9_prok_00517	M		
+TG9_prok_00519	P		
+TG9_prok_00520	G		
+TG9_prok_00521	G		
+TG9_prok_00522	G		
+TG9_prok_00523	E		
+TG9_prok_00524	S		
+TG9_prok_00525			
+TG9_prok_00526			
+TG9_prok_00527	S		
+TG9_prok_00528	S		
+TG9_prok_00529	S		
+TG9_prok_00530	S		
+TG9_prok_00531	S		
+TG9_prok_00532	S		
+TG9_prok_00533	S		
+TG9_prok_00534	S		
+TG9_prok_00535	S		
+TG9_prok_00536	I		
+TG9_prok_00537	I		
+TG9_prok_00538	K		
+TG9_prok_00540	S		
+TG9_prok_00542	S		
+TG9_prok_00543	D		
+TG9_prok_00544	S		
+TG9_prok_00546	C		
+TG9_prok_00547			
+TG9_prok_00548	S		
+TG9_prok_00549	S		
+TG9_prok_00550	C		
+TG9_prok_00551	G		
+TG9_prok_00552	E		
+TG9_prok_00553	S		
+TG9_prok_00554	S		
+TG9_prok_00555	S		
+TG9_prok_00556	P		
+TG9_prok_00557	E		
+TG9_prok_00558	S		
+TG9_prok_00559	I	 Q	
+TG9_prok_00560			
+TG9_prok_00561	S		
+TG9_prok_00562	Q		
+TG9_prok_00563	I		
+TG9_prok_00564			
+TG9_prok_00565	S		
+TG9_prok_00566	J		
+TG9_prok_00567			
+TG9_prok_00568	S		
+TG9_prok_00569	K		
+TG9_prok_00570			
+TG9_prok_00571	K		
+TG9_prok_00572	K		
+TG9_prok_00573	S		
+TG9_prok_00574	E	 G	 P
+TG9_prok_00575	P		
+TG9_prok_00576	P		
+TG9_prok_00577	P		
+TG9_prok_00578	S		
+TG9_prok_00579	C		
+TG9_prok_00580	J		
+TG9_prok_00581	L		
+TG9_prok_00582			
+TG9_prok_00583	T		
+TG9_prok_00584	K		
+TG9_prok_00585	S		
+TG9_prok_00586	K		
+TG9_prok_00587	C		
+TG9_prok_00588	O		
+TG9_prok_00589	O		
+TG9_prok_00590	M		
+TG9_prok_00591			
+TG9_prok_00592	K		
+TG9_prok_00593	D		
+TG9_prok_00594	M		
+TG9_prok_00595	S		
+TG9_prok_00596	U		
+TG9_prok_00597	S		
+TG9_prok_00598	J		
+TG9_prok_00599	L		
+TG9_prok_00600	L		
+TG9_prok_00601	L		
+TG9_prok_00602	S		
+TG9_prok_00603	L		
+TG9_prok_00605	T		
+TG9_prok_00606	S		
+TG9_prok_00607	S		
+TG9_prok_00608	S		
+TG9_prok_00609	S		
+TG9_prok_00610	S		
+TG9_prok_00611	S		
+TG9_prok_00612	L		
+TG9_prok_00613	S		
+TG9_prok_00616	K		
+TG9_prok_00617	V		
+TG9_prok_00618	V		
+TG9_prok_00619			
+TG9_prok_00620	S		
+TG9_prok_00621	P		
+TG9_prok_00622	F		
+TG9_prok_00623	O		
+TG9_prok_00624	S		
+TG9_prok_00625	I		
+TG9_prok_00628	O		
+TG9_prok_00629	S		
+TG9_prok_00630	S		
+TG9_prok_00631	D		
+TG9_prok_00632	S		
+TG9_prok_00633	E		
+TG9_prok_00634	T		
+TG9_prok_00635	V	 W	
+TG9_prok_00636	M		
+TG9_prok_00637	D		
+TG9_prok_00638	T		
+TG9_prok_00639	T		
+TG9_prok_00640	T		
+TG9_prok_00642	Q		
+TG9_prok_00644	S		
+TG9_prok_00645	P		
+TG9_prok_00646	S		
+TG9_prok_00647	P		
+TG9_prok_00648	C		
+TG9_prok_00649	P		
+TG9_prok_00650	S		
+TG9_prok_00651	S		
+TG9_prok_00652	P		
+TG9_prok_00653	P		
+TG9_prok_00654	C		
+TG9_prok_00655	P		
+TG9_prok_00656	S		
+TG9_prok_00657	O		
+TG9_prok_00658	P		
+TG9_prok_00659	P		
+TG9_prok_00662			
+TG9_prok_00664	C	 H	
+TG9_prok_00665	K		
+TG9_prok_00666	E		
+TG9_prok_00667	E		
+TG9_prok_00668	S		
+TG9_prok_00669	S		
+TG9_prok_00670	S		
+TG9_prok_00671	S		
+TG9_prok_00672	S		
+TG9_prok_00673			
+TG9_prok_00674	G		
+TG9_prok_00675	J		
+TG9_prok_00676	S		
+TG9_prok_00677	J		
+TG9_prok_00678	S		
+TG9_prok_00679	K		
+TG9_prok_00680	S		
+TG9_prok_00682	M		
+TG9_prok_00683	M		
+TG9_prok_00684	G	 M	
+TG9_prok_00685	S		
+TG9_prok_00687	L		
+TG9_prok_00688	S		
+TG9_prok_00689	K		
+TG9_prok_00690			
+TG9_prok_00691	I		
+TG9_prok_00692	K		
+TG9_prok_00693	S		
+TG9_prok_00696	T		
+TG9_prok_00697	C		
+TG9_prok_00698	S		
+TG9_prok_00699	S		
+TG9_prok_00700	G		
+TG9_prok_00701	S		
+TG9_prok_00703	Q		
+TG9_prok_00704	I		
+TG9_prok_00705	I		
+TG9_prok_00706	S		
+TG9_prok_00707	I		
+TG9_prok_00708	L		
+TG9_prok_00709	P		
+TG9_prok_00710	P		
+TG9_prok_00711	S		
+TG9_prok_00713			
+TG9_prok_00714	S		
+TG9_prok_00715	S		
+TG9_prok_00716	P		
+TG9_prok_00717	P		
+TG9_prok_00718	Q		
+TG9_prok_00720	C		
+TG9_prok_00721	O		
+TG9_prok_00722	S		
+TG9_prok_00723	E		
+TG9_prok_00724	K		
+TG9_prok_00725	S		
+TG9_prok_00726	S		
+TG9_prok_00727	G		
+TG9_prok_00728	K		
+TG9_prok_00729	S		
+TG9_prok_00730			
+TG9_prok_00731	P		
+TG9_prok_00732	S		
+TG9_prok_00733	O		
+TG9_prok_00734	S		
+TG9_prok_00735	C		
+TG9_prok_00736	P		
+TG9_prok_00737			
+TG9_prok_00738	C		
+TG9_prok_00739	S		
+TG9_prok_00740	P		
+TG9_prok_00741	K		
+TG9_prok_00742	S		
+TG9_prok_00743	G		
+TG9_prok_00744			
+TG9_prok_00745			
+TG9_prok_00746	E		
+TG9_prok_00747	G		
+TG9_prok_00748	K		
+TG9_prok_00749	H		
+TG9_prok_00750	K		
+TG9_prok_00751	I		
+TG9_prok_00752	C		
+TG9_prok_00754	I		
+TG9_prok_00755	S		
+TG9_prok_00756	K		
+TG9_prok_00757	S		
+TG9_prok_00758	I		
+TG9_prok_00759	S		
+TG9_prok_00760	S		
+TG9_prok_00761	L		
+TG9_prok_00762	S		
+TG9_prok_00764	S		
+TG9_prok_00765	S		
+TG9_prok_00766	M		
+TG9_prok_00767	J		
+TG9_prok_00768	Q		
+TG9_prok_00769	G		
+TG9_prok_00770	S		
+TG9_prok_00771			
+TG9_prok_00772	I		
+TG9_prok_00773	S		
+TG9_prok_00774	M		
+TG9_prok_00775	D		
+TG9_prok_00776	K		
+TG9_prok_00777	M		
+TG9_prok_00778	M		
+TG9_prok_00779	I		
+TG9_prok_00780	H		
+TG9_prok_00781	S		
+TG9_prok_00782	S		
+TG9_prok_00783	M		
+TG9_prok_00784			
+TG9_prok_00785	S		
+TG9_prok_00786	I		
+TG9_prok_00787	Q		
+TG9_prok_00788	I		
+TG9_prok_00790	M		
+TG9_prok_00791	M		
+TG9_prok_00792	C		
+TG9_prok_00793			
+TG9_prok_00794			
+TG9_prok_00795	L		
+TG9_prok_00796	L		
+TG9_prok_00797	L		
+TG9_prok_00798	L		
+TG9_prok_00799			
+TG9_prok_00800			
+TG9_prok_00802			
+TG9_prok_00803			
+TG9_prok_00804	M		
+TG9_prok_00806	I	 Q	
+TG9_prok_00807	C		
+TG9_prok_00808	S		
+TG9_prok_00809	S		
+TG9_prok_00811	M		
+TG9_prok_00812	M		
+TG9_prok_00813	M		
+TG9_prok_00814	M		
+TG9_prok_00815	S		
+TG9_prok_00816	V		
+TG9_prok_00817	S		
+TG9_prok_00818	T		
+TG9_prok_00819	I		
+TG9_prok_00821	C		
+TG9_prok_00822			
+TG9_prok_00823	M		
+TG9_prok_00824	P		
+TG9_prok_00825	S		
+TG9_prok_00826	E		
+TG9_prok_00827	C		
+TG9_prok_00828	K		
+TG9_prok_00830	S		
+TG9_prok_00831	H		
+TG9_prok_00832	K	 Q	
+TG9_prok_00833	P		
+TG9_prok_00834	S		
+TG9_prok_00835	F		
+TG9_prok_00836	E		
+TG9_prok_00840	C		
+TG9_prok_00841	I		
+TG9_prok_00842	I		
+TG9_prok_00843	L		
+TG9_prok_00844	L		
+TG9_prok_00848			
+TG9_prok_00849			
+TG9_prok_00850	S		
+TG9_prok_00851	H		
+TG9_prok_00852	E		
+TG9_prok_00853			
+TG9_prok_00854	F	 J	
+TG9_prok_00856			
+TG9_prok_00857			
+TG9_prok_00858	S		
+TG9_prok_00859	S		
+TG9_prok_00860	K		
+TG9_prok_00861	G		
+TG9_prok_00862	S		
+TG9_prok_00863	I		
+TG9_prok_00864	K		
+TG9_prok_00865	K		
+TG9_prok_00866	S		
+TG9_prok_00867	V		
+TG9_prok_00868	V		
+TG9_prok_00869	K		
+TG9_prok_00870	K		
+TG9_prok_00871	E		
+TG9_prok_00872	P		
+TG9_prok_00873	S		
+TG9_prok_00874	P		
+TG9_prok_00875	G		
+TG9_prok_00876	J		
+TG9_prok_00877	S		
+TG9_prok_00878	S		
+TG9_prok_00879	S		
+TG9_prok_00880	J		
+TG9_prok_00881	K		
+TG9_prok_00882	G		
+TG9_prok_00883	G		
+TG9_prok_00884	C		
+TG9_prok_00885	K		
+TG9_prok_00886	S		
+TG9_prok_00887	M		
+TG9_prok_00890	K		
+TG9_prok_00892	S		
+TG9_prok_00893			
+TG9_prok_00894	C		
+TG9_prok_00895	H		
+TG9_prok_00896	P		
+TG9_prok_00897	K		
+TG9_prok_00898	K		
+TG9_prok_00899	L		
+TG9_prok_00902	S		
+TG9_prok_00903	J		
+TG9_prok_00904	E		
+TG9_prok_00905	Q		
+TG9_prok_00906	C		
+TG9_prok_00907	C		
+TG9_prok_00908	C		
+TG9_prok_00909	H		
+TG9_prok_00910	S		
+TG9_prok_00911	K		
+TG9_prok_00912	P		
+TG9_prok_00913	S		
+TG9_prok_00914	S		
+TG9_prok_00916			
+TG9_prok_00917	T		
+TG9_prok_00918	T		
+TG9_prok_00919	K		
+TG9_prok_00920	S		
+TG9_prok_00921	S		
+TG9_prok_00922	I		
+TG9_prok_00923	I		
+TG9_prok_00924	M		
+TG9_prok_00925	S		
+TG9_prok_00926	S		
+TG9_prok_00927	S		
+TG9_prok_00928	L		
+TG9_prok_00929	K		
+TG9_prok_00930	P		
+TG9_prok_00931	S		
+TG9_prok_00932	C		
+TG9_prok_00933	K		
+TG9_prok_00934	S		
+TG9_prok_00935			
+TG9_prok_00936	C		
+TG9_prok_00937	K		
+TG9_prok_00938	S		
+TG9_prok_00939	I		
+TG9_prok_00940	I		
+TG9_prok_00942			
+TG9_prok_00943	S		
+TG9_prok_00944	K		
+TG9_prok_00945	S		
+TG9_prok_00946	S		
+TG9_prok_00947	M		
+TG9_prok_00948	S		
+TG9_prok_00949	K		
+TG9_prok_00950	S		
+TG9_prok_00951	E		
+TG9_prok_00952	S		
+TG9_prok_00953	E		
+TG9_prok_00954	E		
+TG9_prok_00955	K		
+TG9_prok_00956	P		
+TG9_prok_00957	E		
+TG9_prok_00958			
+TG9_prok_00963	L		
+TG9_prok_00964	L		
+TG9_prok_00965	L		
+TG9_prok_00966			
+TG9_prok_00967	U		
+TG9_prok_00968	U		
+TG9_prok_00969	P		
+TG9_prok_00970	P		
+TG9_prok_00971	S		
+TG9_prok_00972	C		
+TG9_prok_00973	T		
+TG9_prok_00974	S		
+TG9_prok_00976	S		
+TG9_prok_00977	S		
+TG9_prok_00978	M		
+TG9_prok_00979	K		
+TG9_prok_00980	D		
+TG9_prok_00981	D		
+TG9_prok_00982			
+TG9_prok_00983	J		
+TG9_prok_00984	S		
+TG9_prok_00985	T		
+TG9_prok_00986			
+TG9_prok_00987	L		
+TG9_prok_00988	O		
+TG9_prok_00989	L		
+TG9_prok_00990	O		
+TG9_prok_00991	S		
+TG9_prok_00992	S		
+TG9_prok_00993	P		
+TG9_prok_00994	G		
+TG9_prok_00995	I		
+TG9_prok_00996	S		
+TG9_prok_00997	E		
+TG9_prok_00998	S		
+TG9_prok_00999	U		
+TG9_prok_01000			
+TG9_prok_01001	U		
+TG9_prok_01002			
+TG9_prok_01003			
+TG9_prok_01004			
+TG9_prok_01005	L		
+TG9_prok_01006	K		
+TG9_prok_01007			
+TG9_prok_01008	L		
+TG9_prok_01009	L		
+TG9_prok_01016			
+TG9_prok_01017	E		
+TG9_prok_01018	Q		
+TG9_prok_01019	E		
+TG9_prok_01020			
+TG9_prok_01021	K		
+TG9_prok_01022	S		
+TG9_prok_01023	L		
+TG9_prok_01024	I		
+TG9_prok_01025	C		
+TG9_prok_01026	M		
+TG9_prok_01027	S		
+TG9_prok_01028	D		
+TG9_prok_01029	F		
+TG9_prok_01030	O		
+TG9_prok_01031	H		
+TG9_prok_01032	H		
+TG9_prok_01033	H		
+TG9_prok_01034	H		
+TG9_prok_01035	S		
+TG9_prok_01036	S		
+TG9_prok_01037	H		
+TG9_prok_01038	H		
+TG9_prok_01039	H		
+TG9_prok_01040	K		
+TG9_prok_01041	P		
+TG9_prok_01042	J		
+TG9_prok_01043	S		
+TG9_prok_01044	I		
+TG9_prok_01045	O		
+TG9_prok_01046	S		
+TG9_prok_01047	K		
+TG9_prok_01048			
+TG9_prok_01050	O		
+TG9_prok_01051	Q		
+TG9_prok_01052	S		
+TG9_prok_01053	S		
+TG9_prok_01054	S		
+TG9_prok_01055	L		
+TG9_prok_01056	P		
+TG9_prok_01057	S		
+TG9_prok_01058	L		
+TG9_prok_01059	S		
+TG9_prok_01060	L		
+TG9_prok_01061	O		
+TG9_prok_01062			
+TG9_prok_01063	K		
+TG9_prok_01064	I		
+TG9_prok_01065	I		
+TG9_prok_01066	J		
+TG9_prok_01067	J		
+TG9_prok_01068	I		
+TG9_prok_01069	E		
+TG9_prok_01070	P		
+TG9_prok_01071	E		
+TG9_prok_01072	S		
+TG9_prok_01073	S		
+TG9_prok_01074	P		
+TG9_prok_01075	P		
+TG9_prok_01076	P		
+TG9_prok_01077	K		
+TG9_prok_01078	G		
+TG9_prok_01079	K		
+TG9_prok_01080	I		
+TG9_prok_01081	I		
+TG9_prok_01082	I		
+TG9_prok_01083	S		
+TG9_prok_01084			
+TG9_prok_01085	S		
+TG9_prok_01086	S		
+TG9_prok_01087	I	 Q	
+TG9_prok_01088	P		
+TG9_prok_01089	V		
+TG9_prok_01090	S		
+TG9_prok_01091			
+TG9_prok_01092	C		
+TG9_prok_01093	I		
+TG9_prok_01094	C		
+TG9_prok_01095			
+TG9_prok_01096	C		
+TG9_prok_01097	I		
+TG9_prok_01098	S		
+TG9_prok_01099	Q		
+TG9_prok_01100	S		
+TG9_prok_01101	S		
+TG9_prok_01102	E		
+TG9_prok_01103			
+TG9_prok_01104	H		
+TG9_prok_01105	C		
+TG9_prok_01106	Q		
+TG9_prok_01107	Q		
+TG9_prok_01108	K		
+TG9_prok_01109	K		
+TG9_prok_01110			
+TG9_prok_01111	S		
+TG9_prok_01112	C		
+TG9_prok_01113	I		
+TG9_prok_01114	I		
+TG9_prok_01115	I		
+TG9_prok_01116	I		
+TG9_prok_01117	Q		
+TG9_prok_01118	I		
+TG9_prok_01119	I		
+TG9_prok_01120	K		
+TG9_prok_01121	I		
+TG9_prok_01122	S		
+TG9_prok_01123	T		
+TG9_prok_01124	S		
+TG9_prok_01125	T		
+TG9_prok_01126	T		
+TG9_prok_01127	V		
+TG9_prok_01128	V		
+TG9_prok_01129	S		
+TG9_prok_01130	I		
+TG9_prok_01131	I		
+TG9_prok_01132	I		
+TG9_prok_01133	I		
+TG9_prok_01134			
+TG9_prok_01135	K		
+TG9_prok_01136	Q		
+TG9_prok_01137	I		
+TG9_prok_01138	I		
+TG9_prok_01139	C		
+TG9_prok_01140			
+TG9_prok_01141	S		
+TG9_prok_01142	C		
+TG9_prok_01143	G		
+TG9_prok_01144	C		
+TG9_prok_01145	K		
+TG9_prok_01146	S		
+TG9_prok_01147	C		
+TG9_prok_01148	Q		
+TG9_prok_01149	S		
+TG9_prok_01150	T		
+TG9_prok_01151	G		
+TG9_prok_01152	K		
+TG9_prok_01153	I		
+TG9_prok_01154	I		
+TG9_prok_01155	S		
+TG9_prok_01156	S		
+TG9_prok_01157	S		
+TG9_prok_01158	S		
+TG9_prok_01159	S		
+TG9_prok_01160	S		
+TG9_prok_01161			
+TG9_prok_01162	S		
+TG9_prok_01163	I		
+TG9_prok_01164	Q		
+TG9_prok_01166	S		
+TG9_prok_01167	S		
+TG9_prok_01168	C		
+TG9_prok_01169	I		
+TG9_prok_01170	S		
+TG9_prok_01171	S		
+TG9_prok_01172	C		
+TG9_prok_01173	I		
+TG9_prok_01174	I		
+TG9_prok_01175	I		
+TG9_prok_01176	S		
+TG9_prok_01177	C		
+TG9_prok_01178	S		
+TG9_prok_01179			
+TG9_prok_01180	I		
+TG9_prok_01181	I		
+TG9_prok_01182	I		
+TG9_prok_01183	C		
+TG9_prok_01184	I		
+TG9_prok_01185	Q		
+TG9_prok_01186	Q		
+TG9_prok_01187	S		
+TG9_prok_01188	S		
+TG9_prok_01189	Q		
+TG9_prok_01190	Q		
+TG9_prok_01191	S		
+TG9_prok_01192	S		
+TG9_prok_01193			
+TG9_prok_01194			
+TG9_prok_01195	G		
+TG9_prok_01196			
+TG9_prok_01197	S		
+TG9_prok_01198	Q		
+TG9_prok_01199	S		
+TG9_prok_01200	S		
+TG9_prok_01202	S		
+TG9_prok_01205			
+TG9_prok_01206	K		
+TG9_prok_01207	G		
+TG9_prok_01208			
+TG9_prok_01209	P		
+TG9_prok_01210			
+TG9_prok_01212	P		
+TG9_prok_01213	F	 G	
+TG9_prok_01214	K		
+TG9_prok_01215	S		
+TG9_prok_01216	H		
+TG9_prok_01217	F		
+TG9_prok_01218	S		
+TG9_prok_01219	E		
+TG9_prok_01220	E		
+TG9_prok_01221	K		
+TG9_prok_01222	F		
+TG9_prok_01223	K		
+TG9_prok_01224	F	 G	
+TG9_prok_01225	C		
+TG9_prok_01226	P		
+TG9_prok_01227	S		
+TG9_prok_01228	D		
+TG9_prok_01229	K		
+TG9_prok_01230	S		
+TG9_prok_01231	L		
+TG9_prok_01232	L		
+TG9_prok_01233	L		
+TG9_prok_01234	S		
+TG9_prok_01235	S		
+TG9_prok_01238			
+TG9_prok_01242	L		
+TG9_prok_01243	L		
+TG9_prok_01244	S		
+TG9_prok_01245	S		
+TG9_prok_01246	S		
+TG9_prok_01247	K		
+TG9_prok_01248	V		
+TG9_prok_01249	Q		
+TG9_prok_01250	I	 Q	
+TG9_prok_01251	H		
+TG9_prok_01252	Q		
+TG9_prok_01253	P		
+TG9_prok_01254	Q		
+TG9_prok_01255	Q		
+TG9_prok_01256	P		
+TG9_prok_01258	G		
+TG9_prok_01259	F		
+TG9_prok_01260	E		
+TG9_prok_01261	T		
+TG9_prok_01262	T		
+TG9_prok_01263	C		
+TG9_prok_01264	O		
+TG9_prok_01265	H		
+TG9_prok_01266	C		
+TG9_prok_01267	S		
+TG9_prok_01268	C		
+TG9_prok_01269	S		
+TG9_prok_01270	C		
+TG9_prok_01271	F		
+TG9_prok_01272	F		
+TG9_prok_01273			
+TG9_prok_01274	E		
+TG9_prok_01275	S		
+TG9_prok_01276	F		
+TG9_prok_01277	S		
+TG9_prok_01278	S		
+TG9_prok_01279			
+TG9_prok_01280	F		
+TG9_prok_01281	F		
+TG9_prok_01282	S		
+TG9_prok_01283	E		
+TG9_prok_01284	S		
+TG9_prok_01285	S		
+TG9_prok_01286	E		
+TG9_prok_01287	C		
+TG9_prok_01288	C		
+TG9_prok_01289	V		
+TG9_prok_01290	P		
+TG9_prok_01291	P		
+TG9_prok_01292	I		
+TG9_prok_01294	S		
+TG9_prok_01295	P		
+TG9_prok_01296	S		
+TG9_prok_01297	O		
+TG9_prok_01298			
+TG9_prok_01299	K		
+TG9_prok_01300	S		
+TG9_prok_01301	P		
+TG9_prok_01302	P		
+TG9_prok_01303	P		
+TG9_prok_01304	P		
+TG9_prok_01305	P		
+TG9_prok_01306	K		
+TG9_prok_01307	J		
+TG9_prok_01308	I		
+TG9_prok_01309	S		
+TG9_prok_01311			
+TG9_prok_01313	K		
+TG9_prok_01318	M		
+TG9_prok_01319	M		
+TG9_prok_01320			
+TG9_prok_01321	S		
+TG9_prok_01322	K		
+TG9_prok_01323	P		
+TG9_prok_01324	T		
+TG9_prok_01325	P		
+TG9_prok_01326	T		
+TG9_prok_01327	E		
+TG9_prok_01328	K		
+TG9_prok_01329	C		
+TG9_prok_01330	Q		
+TG9_prok_01331	C		
+TG9_prok_01332	S		
+TG9_prok_01333	C		
+TG9_prok_01334	S		
+TG9_prok_01335	K		
+TG9_prok_01336	Q		
+TG9_prok_01337	K		
+TG9_prok_01338	Q		
+TG9_prok_01339	S		
+TG9_prok_01340	H		
+TG9_prok_01341	C		
+TG9_prok_01342			
+TG9_prok_01343			
+TG9_prok_01344	S		
+TG9_prok_01345	C		
+TG9_prok_01346	C		
+TG9_prok_01347	K		
+TG9_prok_01348			
+TG9_prok_01350	P		
+TG9_prok_01351	S		
+TG9_prok_01352	I		
+TG9_prok_01353	I		
+TG9_prok_01354	S		
+TG9_prok_01355	T		
+TG9_prok_01356	S		
+TG9_prok_01357	H		
+TG9_prok_01358	S		
+TG9_prok_01359	J		
+TG9_prok_01360	S		
+TG9_prok_01361	S		
+TG9_prok_01362	S		
+TG9_prok_01363	E		
+TG9_prok_01364	F	 H	
+TG9_prok_01365	K		
+TG9_prok_01366			
+TG9_prok_01367	S		
+TG9_prok_01368	L		
+TG9_prok_01369	O		
+TG9_prok_01370	K		
+TG9_prok_01372	G		
+TG9_prok_01373	G		
+TG9_prok_01374	I		
+TG9_prok_01376	S		
+TG9_prok_01377	S		
+TG9_prok_01378	E		
+TG9_prok_01379	M		
+TG9_prok_01380	Q		
+TG9_prok_01381	K		
+TG9_prok_01382	E		
+TG9_prok_01383	L		
+TG9_prok_01384	K		
+TG9_prok_01385	S		
+TG9_prok_01386	L		
+TG9_prok_01387	K		
+TG9_prok_01388			
+TG9_prok_01389	S		
+TG9_prok_01390	S		
+TG9_prok_01391	P		
+TG9_prok_01392	P		
+TG9_prok_01393	S		
+TG9_prok_01394	O		
+TG9_prok_01395	O		
+TG9_prok_01396	S		
+TG9_prok_01397	S		
+TG9_prok_01398	K		
+TG9_prok_01399	S		
+TG9_prok_01400	S		
+TG9_prok_01401	P		
+TG9_prok_01402	S		
+TG9_prok_01403	P		
+TG9_prok_01404	O		
+TG9_prok_01405			
+TG9_prok_01406	G		
+TG9_prok_01407	G		
+TG9_prok_01408	S		
+TG9_prok_01409	S		
+TG9_prok_01410	J		
+TG9_prok_01411	S		
+TG9_prok_01412	P		
+TG9_prok_01413	T		
+TG9_prok_01414	T		
+TG9_prok_01415	L		
+TG9_prok_01419	P		
+TG9_prok_01420	P		
+TG9_prok_01421	P		
+TG9_prok_01422	C		
+TG9_prok_01423			
+TG9_prok_01424			
+TG9_prok_01425	S		
+TG9_prok_01426	S		
+TG9_prok_01427			
+TG9_prok_01428	K		
+TG9_prok_01429	S		
+TG9_prok_01430	G		
+TG9_prok_01431	O		
+TG9_prok_01432	S		
+TG9_prok_01433	S		
+TG9_prok_01434	I		
+TG9_prok_01435	S		
+TG9_prok_01436	S		
+TG9_prok_01437	K		
+TG9_prok_01438	J		
+TG9_prok_01439	S		
+TG9_prok_01440	S		
+TG9_prok_01441	S		
+TG9_prok_01442	S		
+TG9_prok_01443	S		
+TG9_prok_01444			
+TG9_prok_01445	S		
+TG9_prok_01446	E		
+TG9_prok_01447	C		
+TG9_prok_01448	H		
+TG9_prok_01449	G		
+TG9_prok_01450	V		
+TG9_prok_01451	K		
+TG9_prok_01452	V		
+TG9_prok_01453	C		
+TG9_prok_01454	O		
+TG9_prok_01455	K		
+TG9_prok_01456	I		
+TG9_prok_01457			
+TG9_prok_01458	S		
+TG9_prok_01459	H		
+TG9_prok_01460	S		
+TG9_prok_01461	S		
+TG9_prok_01462	S		
+TG9_prok_01464	I		
+TG9_prok_01465			
+TG9_prok_01466	I		
+TG9_prok_01467	C	 P	
+TG9_prok_01468	S		
+TG9_prok_01469			
+TG9_prok_01470	K		
+TG9_prok_01471	J		
+TG9_prok_01472	S		
+TG9_prok_01473	G		
+TG9_prok_01474	O		
+TG9_prok_01475	P		
+TG9_prok_01476	O		
+TG9_prok_01477			
+TG9_prok_01478	S		
+TG9_prok_01479	K		
+TG9_prok_01481	I		
+TG9_prok_01482	S		
+TG9_prok_01483	P		
+TG9_prok_01485	C		
+TG9_prok_01486	I		
+TG9_prok_01487	P		
+TG9_prok_01488	P		
+TG9_prok_01489	T		
+TG9_prok_01490	T		
+TG9_prok_01491	S		
+TG9_prok_01492	S		
+TG9_prok_01493	S		
+TG9_prok_01494	S		
+TG9_prok_01495	S		
+TG9_prok_01496	S		
+TG9_prok_01497	S		
+TG9_prok_01498	S		
+TG9_prok_01499			
+TG9_prok_01500			
+TG9_prok_01501	G		
+TG9_prok_01502	G		
+TG9_prok_01503	K		
+TG9_prok_01504	K		
+TG9_prok_01505	T		
+TG9_prok_01506	T		
+TG9_prok_01507	L		
+TG9_prok_01508	T		
+TG9_prok_01509	S		
+TG9_prok_01510	S		
+TG9_prok_01512	K		
+TG9_prok_01513	K		
+TG9_prok_01514	E		
+TG9_prok_01515			
+TG9_prok_01517	M		
+TG9_prok_01518	S		
+TG9_prok_01519	S		
+TG9_prok_01520	C		
+TG9_prok_01521	K		
+TG9_prok_01522	T		
+TG9_prok_01523	C		
+TG9_prok_01524	T		
+TG9_prok_01526	S		
+TG9_prok_01527	T		
+TG9_prok_01528	T		
+TG9_prok_01529	S		
+TG9_prok_01530			
+TG9_prok_01531	P		
+TG9_prok_01532	L		
+TG9_prok_01533			
+TG9_prok_01534	L		
+TG9_prok_01535	P		
+TG9_prok_01536	L		
+TG9_prok_01537	F		
+TG9_prok_01538	H		
+TG9_prok_01539	S		
+TG9_prok_01540	I		
+TG9_prok_01541			
+TG9_prok_01542	K		
+TG9_prok_01543	I		
+TG9_prok_01544	H		
+TG9_prok_01545	G		
+TG9_prok_01546	G		
+TG9_prok_01547	C		
+TG9_prok_01548	E		
+TG9_prok_01549	L		
+TG9_prok_01550	M		
+TG9_prok_01551	C		
+TG9_prok_01552	C		
+TG9_prok_01553	S		
+TG9_prok_01554	S		
+TG9_prok_01555	S		
+TG9_prok_01556	F		
+TG9_prok_01557	F		
+TG9_prok_01559			
+TG9_prok_01560			
+TG9_prok_01561	H		
+TG9_prok_01562	S		
+TG9_prok_01563	P		
+TG9_prok_01564			
+TG9_prok_01565	S		
+TG9_prok_01566	J		
+TG9_prok_01567	J		
+TG9_prok_01568	J		
+TG9_prok_01569	J		
+TG9_prok_01570	S		
+TG9_prok_01571	J		
+TG9_prok_01572	J		
+TG9_prok_01573	T		
+TG9_prok_01574	T		
+TG9_prok_01575	O		
+TG9_prok_01576	H		
+TG9_prok_01578	S		
+TG9_prok_01579	S		
+TG9_prok_01580	M		
+TG9_prok_01581	S		
+TG9_prok_01583	H		
+TG9_prok_01584	M		
+TG9_prok_01585	H		
+TG9_prok_01586	J		
+TG9_prok_01587			
+TG9_prok_01589	S		
+TG9_prok_01590	S		
+TG9_prok_01591	E		
+TG9_prok_01592	P		
+TG9_prok_01593	M		
+TG9_prok_01594	K		
+TG9_prok_01595	P		
+TG9_prok_01597			
+TG9_prok_01598	M		
+TG9_prok_01599	S		
+TG9_prok_01600	E		
+TG9_prok_01601	K		
+TG9_prok_01602	E	 H	
+TG9_prok_01603	K		
+TG9_prok_01604	C		
+TG9_prok_01605	S		
+TG9_prok_01606	J		
+TG9_prok_01607	L		
+TG9_prok_01608	C		
+TG9_prok_01609	S		
+TG9_prok_01610	P		
+TG9_prok_01611	L		
+TG9_prok_01612	J		
+TG9_prok_01613	K		
+TG9_prok_01615	I		
+TG9_prok_01616	S		
+TG9_prok_01617			
+TG9_prok_01618	I		
+TG9_prok_01619	I		
+TG9_prok_01620	K		
+TG9_prok_01621			
+TG9_prok_01622	S		
+TG9_prok_01623	H		
+TG9_prok_01624	I		
+TG9_prok_01626	J		
+TG9_prok_01627	Q		
+TG9_prok_01628	J		
+TG9_prok_01629	J		
+TG9_prok_01630	E		
+TG9_prok_01631	H		
+TG9_prok_01632	S		
+TG9_prok_01633	S		
+TG9_prok_01634	S		
+TG9_prok_01635	G		
+TG9_prok_01636	K		
+TG9_prok_01638	S		
+TG9_prok_01639	F		
+TG9_prok_01640	M		
+TG9_prok_01642	K		
+TG9_prok_01643	K		
+TG9_prok_01645			
+TG9_prok_01646	L		
+TG9_prok_01647	F		
+TG9_prok_01648	S		
+TG9_prok_01650	M		
+TG9_prok_01651	G		
+TG9_prok_01652	D		
+TG9_prok_01653	D		
+TG9_prok_01654	T		
+TG9_prok_01656	S		
+TG9_prok_01658	P		
+TG9_prok_01659	P		
+TG9_prok_01660	P		
+TG9_prok_01661			
+TG9_prok_01663			
+TG9_prok_01664	S		
+TG9_prok_01666	P		
+TG9_prok_01667	K		
+TG9_prok_01669	J		
+TG9_prok_01670	S		
+TG9_prok_01671	E		
+TG9_prok_01672	E		
+TG9_prok_01673	S		
+TG9_prok_01674	M		
+TG9_prok_01675	K		
+TG9_prok_01676	S		
+TG9_prok_01677	S		
+TG9_prok_01678			
+TG9_prok_01679	O		
+TG9_prok_01680	M		
+TG9_prok_01681	S		
+TG9_prok_01682	I		
+TG9_prok_01683	H		
+TG9_prok_01684			
+TG9_prok_01685	E		
+TG9_prok_01686	Q		
+TG9_prok_01688	P		
+TG9_prok_01689	Q		
+TG9_prok_01690	Q		
+TG9_prok_01691	P		
+TG9_prok_01692	P		
+TG9_prok_01693	T		
+TG9_prok_01694	Q		
+TG9_prok_01695	Q		
+TG9_prok_01696	M		
+TG9_prok_01697	C		
+TG9_prok_01698	G		
+TG9_prok_01699			
+TG9_prok_01700	L		
+TG9_prok_01701	L		
+TG9_prok_01702			
+TG9_prok_01703	I		
+TG9_prok_01704	S		
+TG9_prok_01705	S		
+TG9_prok_01706	L		
+TG9_prok_01707	L		
+TG9_prok_01708	S		
+TG9_prok_01710	J		
+TG9_prok_01711			
+TG9_prok_01713			
+TG9_prok_01716			
+TG9_prok_01717	L		
+TG9_prok_01718			
+TG9_prok_01721	L		
+TG9_prok_01723	L		
+TG9_prok_01724	S		
+TG9_prok_01725	S		
+TG9_prok_01726	K		
+TG9_prok_01727	P		
+TG9_prok_01728	K		
+TG9_prok_01729	K		
+TG9_prok_01730	S		
+TG9_prok_01731			
+TG9_prok_01732			
+TG9_prok_01733			
+TG9_prok_01734	J		
+TG9_prok_01735	G		
+TG9_prok_01736	T		
+TG9_prok_01737	K		
+TG9_prok_01738	J		
+TG9_prok_01739	C		
+TG9_prok_01740	S		
+TG9_prok_01741	K		
+TG9_prok_01742	S		
+TG9_prok_01743	O		
+TG9_prok_01744	C		
+TG9_prok_01745	I		
+TG9_prok_01746	S		
+TG9_prok_01747			
+TG9_prok_01749	S		
+TG9_prok_01752	L		
+TG9_prok_01753	L		
+TG9_prok_01754	L		
+TG9_prok_01755	S		
+TG9_prok_01757	S		
+TG9_prok_01758	G		
+TG9_prok_01759	G		
+TG9_prok_01760	P		
+TG9_prok_01761	G		
+TG9_prok_01762	K		
+TG9_prok_01763	C		
+TG9_prok_01764	G		
+TG9_prok_01765	G		
+TG9_prok_01766	G		
+TG9_prok_01767	S		
+TG9_prok_01768	S		
+TG9_prok_01769	S		
+TG9_prok_01770	S		
+TG9_prok_01771	S		
+TG9_prok_01773	S		
+TG9_prok_01774	G		
+TG9_prok_01775	Q		
+TG9_prok_01777	O		
+TG9_prok_01778	O		
+TG9_prok_01779	K		
+TG9_prok_01780	S		
+TG9_prok_01781	F		
+TG9_prok_01782	F		
+TG9_prok_01783	F		
+TG9_prok_01784	S		
+TG9_prok_01785	S		
+TG9_prok_01786	S		
+TG9_prok_01787	S		
+TG9_prok_01788	S		
+TG9_prok_01789	S		
+TG9_prok_01790	S		
+TG9_prok_01791	C		
+TG9_prok_01792	C		
+TG9_prok_01793	Q		
+TG9_prok_01794	K		
+TG9_prok_01795	Q		
+TG9_prok_01796	F		
+TG9_prok_01797	F		
+TG9_prok_01799	C		
+TG9_prok_01800	S		
+TG9_prok_01801			
+TG9_prok_01803	K		
+TG9_prok_01804	L		
+TG9_prok_01805	Q		
+TG9_prok_01806	V		
+TG9_prok_01807	S		
+TG9_prok_01808	G		
+TG9_prok_01809			
+TG9_prok_01810			
+TG9_prok_01811	S		
+TG9_prok_01812	H		
+TG9_prok_01813	L		
+TG9_prok_01814			
+TG9_prok_01815	T		
+TG9_prok_01816	E		
+TG9_prok_01817	S		
+TG9_prok_01819			
+TG9_prok_01820	L		
+TG9_prok_01821	S		
+TG9_prok_01822	S		
+TG9_prok_01824	C		
+TG9_prok_01825	C		
+TG9_prok_01826	E		
+TG9_prok_01827	S		
+TG9_prok_01828	Q		
+TG9_prok_01829	K		
+TG9_prok_01830	S		
+TG9_prok_01831	E		
+TG9_prok_01832	E		
+TG9_prok_01833	E		
+TG9_prok_01834	S		
+TG9_prok_01835	L		
+TG9_prok_01836	Q		
+TG9_prok_01837	H		
+TG9_prok_01838	M		
+TG9_prok_01839	S		
+TG9_prok_01840	L		
+TG9_prok_01841	S		
+TG9_prok_01842	Q		
+TG9_prok_01843	G		
+TG9_prok_01844	G		
+TG9_prok_01845	S		
+TG9_prok_01846	K		
+TG9_prok_01847			
+TG9_prok_01848	O		
+TG9_prok_01849	U		
+TG9_prok_01850	D		
+TG9_prok_01851	M		
+TG9_prok_01852	M		
+TG9_prok_01853	S		
+TG9_prok_01854	P		
+TG9_prok_01855	G		
+TG9_prok_01856			
+TG9_prok_01857			
+TG9_prok_01858	T		
+TG9_prok_01859	S		
+TG9_prok_01860	G		
+TG9_prok_01861	G		
+TG9_prok_01862	G		
+TG9_prok_01863	G		
+TG9_prok_01864	K		
+TG9_prok_01865	S		
+TG9_prok_01866			
+TG9_prok_01867	P		
+TG9_prok_01868	S		
+TG9_prok_01869			
+TG9_prok_01870	C		
+TG9_prok_01871	E		
+TG9_prok_01872	I		
+TG9_prok_01873	S		
+TG9_prok_01874	P		
+TG9_prok_01875	K		
+TG9_prok_01876	C		
+TG9_prok_01877	C		
+TG9_prok_01878	V		
+TG9_prok_01879			
+TG9_prok_01880	P		
+TG9_prok_01881	S		
+TG9_prok_01882			
+TG9_prok_01883	K		
+TG9_prok_01884	S		
+TG9_prok_01885	O		
+TG9_prok_01886	S		
+TG9_prok_01887	P		
+TG9_prok_01888	I	 Q	
+TG9_prok_01889	I		
+TG9_prok_01890	F		
+TG9_prok_01891	C		
+TG9_prok_01892	K		
+TG9_prok_01893	E		
+TG9_prok_01894	I		
+TG9_prok_01895	I		
+TG9_prok_01896	S		
+TG9_prok_01897	E		
+TG9_prok_01898	E		
+TG9_prok_01899	L		
+TG9_prok_01900	V		
+TG9_prok_01901	S		
+TG9_prok_01902	V		
+TG9_prok_01903	V		
+TG9_prok_01904	K		
+TG9_prok_01905	L		
+TG9_prok_01906	S		
+TG9_prok_01907	V		
+TG9_prok_01908	V		
+TG9_prok_01911	S		
+TG9_prok_01912	G		
+TG9_prok_01913	I		
+TG9_prok_01915			
+TG9_prok_01917	K		
+TG9_prok_01918			
+TG9_prok_01919	Q		
+TG9_prok_01920	G	 M	
+TG9_prok_01921	C		
+TG9_prok_01922			
+TG9_prok_01923	S		
+TG9_prok_01924	M		
+TG9_prok_01925	K		
+TG9_prok_01926	C		
+TG9_prok_01927	M		
+TG9_prok_01928	Q		
+TG9_prok_01929	I		
+TG9_prok_01930	S		
+TG9_prok_01932	I		
+TG9_prok_01933			
+TG9_prok_01935	D		
+TG9_prok_01936			
+TG9_prok_01938	Q		
+TG9_prok_01939	I		
+TG9_prok_01940	I		
+TG9_prok_01941	C		
+TG9_prok_01942	P		
+TG9_prok_01943	K		
+TG9_prok_01944	S		
+TG9_prok_01945	S		
+TG9_prok_01946	E		
+TG9_prok_01947			
+TG9_prok_01948	S		
+TG9_prok_01949	E		
+TG9_prok_01950			
+TG9_prok_01951	T		
+TG9_prok_01952	S		
+TG9_prok_01953	I		
+TG9_prok_01954	C		
+TG9_prok_01955			
+TG9_prok_01956	V		
+TG9_prok_01957	C		
+TG9_prok_01958	G		
+TG9_prok_01959	S		
+TG9_prok_01960	S		
+TG9_prok_01961			
+TG9_prok_01962	S		
+TG9_prok_01963	L		
+TG9_prok_01969	C		
+TG9_prok_01970	K		
+TG9_prok_01971	E		
+TG9_prok_01972	L		
+TG9_prok_01973	M		
+TG9_prok_01974	S		
+TG9_prok_01975	S		
+TG9_prok_01976	S		
+TG9_prok_01977	L		
+TG9_prok_01978	L		
+TG9_prok_01979	L		
+TG9_prok_01980	V		
+TG9_prok_01981	S		
+TG9_prok_01982	V		
+TG9_prok_01983	L		
+TG9_prok_01984	L		
+TG9_prok_01986			
+TG9_prok_01987			
+TG9_prok_01988			
+TG9_prok_01989			
+TG9_prok_01990	F		
+TG9_prok_01991	S		
+TG9_prok_01992	K		
+TG9_prok_01993			
+TG9_prok_01995			
+TG9_prok_01996	M		
+TG9_prok_01997	D		
+TG9_prok_01998			
+TG9_prok_01999			
+TG9_prok_02000			
+TG9_prok_02001	K		
+TG9_prok_02002	G		
+TG9_prok_02003	P		
+TG9_prok_02004	H		
+TG9_prok_02005	K		
+TG9_prok_02006	G		
+TG9_prok_02007	K		
+TG9_prok_02008	P		
+TG9_prok_02009	P		
+TG9_prok_02010	P		
+TG9_prok_02011	P		
+TG9_prok_02012	K		
+TG9_prok_02013	S		
+TG9_prok_02014	E		
+TG9_prok_02015	J		
+TG9_prok_02016	G		
+TG9_prok_02017	Q		
+TG9_prok_02018	G		
+TG9_prok_02019	P		
+TG9_prok_02020	G		
+TG9_prok_02021	H		
+TG9_prok_02022	S		
+TG9_prok_02023	H		
+TG9_prok_02024	L		
+TG9_prok_02025	L		
+TG9_prok_02026	L		
+TG9_prok_02027	L		
+TG9_prok_02028	L		
+TG9_prok_02029	L		
+TG9_prok_02030	L		
+TG9_prok_02031	P		
+TG9_prok_02032	P		
+TG9_prok_02033	S		
+TG9_prok_02034	H		
+TG9_prok_02035	S		
+TG9_prok_02036	G		
+TG9_prok_02037			
+TG9_prok_02038	S		
+TG9_prok_02039	S		
+TG9_prok_02040	S		
+TG9_prok_02042	K		
+TG9_prok_02043	S		
+TG9_prok_02044	Q		
+TG9_prok_02045	F		
+TG9_prok_02046	O		
+TG9_prok_02047	C		
+TG9_prok_02049	S		
+TG9_prok_02050	S		
+TG9_prok_02051	T		
+TG9_prok_02052	P		
+TG9_prok_02053	E		
+TG9_prok_02054	C		
+TG9_prok_02055	S		
+TG9_prok_02056	E		
+TG9_prok_02057			
+TG9_prok_02058	I		
+TG9_prok_02059	S		
+TG9_prok_02060	S		
+TG9_prok_02061	S		
+TG9_prok_02062	K		
+TG9_prok_02063	I		
+TG9_prok_02064	G		
+TG9_prok_02065	S		
+TG9_prok_02066			
+TG9_prok_02068	C		
+TG9_prok_02069	C		
+TG9_prok_02070	I		
+TG9_prok_02071	Q		
+TG9_prok_02072	I		
+TG9_prok_02073	K		
+TG9_prok_02074	P		
+TG9_prok_02075	P		
+TG9_prok_02076	S		
+TG9_prok_02077	E		
+TG9_prok_02078	S		
+TG9_prok_02079	F	 G	
+TG9_prok_02080	K		
+TG9_prok_02082	C		
+TG9_prok_02083	H		
+TG9_prok_02084	C		
+TG9_prok_02085	G		
+TG9_prok_02086	C		
+TG9_prok_02087	C		
+TG9_prok_02088	C		
+TG9_prok_02089	K		
+TG9_prok_02090	S		
+TG9_prok_02091	P		
+TG9_prok_02093	E		
+TG9_prok_02094	S		
+TG9_prok_02095	C		
+TG9_prok_02096	L		
+TG9_prok_02097	S		
+TG9_prok_02098	S		
+TG9_prok_02099	C		
+TG9_prok_02100	I		
+TG9_prok_02101	I		
+TG9_prok_02102	I		
+TG9_prok_02103	I		
+TG9_prok_02104	K		
+TG9_prok_02105	S		
+TG9_prok_02106	S		
+TG9_prok_02107			
+TG9_prok_02108	K		
+TG9_prok_02109	P		
+TG9_prok_02110	P		
+TG9_prok_02111	P		
+TG9_prok_02112	S		
+TG9_prok_02113	Q		
+TG9_prok_02115	S		
+TG9_prok_02116	S		
+TG9_prok_02117	J		
+TG9_prok_02118	E		
+TG9_prok_02119	E		
+TG9_prok_02120	E		
+TG9_prok_02121	E		
+TG9_prok_02122	K		
+TG9_prok_02123	J		
+TG9_prok_02124	J		
+TG9_prok_02126	J		
+TG9_prok_02127	J		
+TG9_prok_02128	M		
+TG9_prok_02129	S		
+TG9_prok_02130	C		
+TG9_prok_02131	C		
+TG9_prok_02132	C		
+TG9_prok_02133	C		
+TG9_prok_02134	C		
+TG9_prok_02135	C		
+TG9_prok_02136	C		
+TG9_prok_02137	C		
+TG9_prok_02138	S		
+TG9_prok_02139	S		
+TG9_prok_02140	M		
+TG9_prok_02144	E		
+TG9_prok_02145	E		
+TG9_prok_02146	E		
+TG9_prok_02147	E		
+TG9_prok_02148	T		
+TG9_prok_02149	L		
+TG9_prok_02150	K		
+TG9_prok_02151			
+TG9_prok_02152	I		
+TG9_prok_02153	I		
+TG9_prok_02154	S		
+TG9_prok_02155	O		
+TG9_prok_02156	S		
+TG9_prok_02157	G		
+TG9_prok_02158	G		
+TG9_prok_02159	G		
+TG9_prok_02160	L		
+TG9_prok_02161	H		
+TG9_prok_02162	H		
+TG9_prok_02163	O		
+TG9_prok_02164	S		
+TG9_prok_02165	E	 Q	
+TG9_prok_02166	S		
+TG9_prok_02167	S		
+TG9_prok_02168	J		
+TG9_prok_02169	F		
+TG9_prok_02170	S		
+TG9_prok_02172	T		
+TG9_prok_02173	T		
+TG9_prok_02174	T		
+TG9_prok_02175	T		
+TG9_prok_02176	T		
+TG9_prok_02177	S		
+TG9_prok_02178	K		
+TG9_prok_02180	V		
+TG9_prok_02181	V		
+TG9_prok_02182	I		
+TG9_prok_02183	I		
+TG9_prok_02184	K		
+TG9_prok_02185	V		
+TG9_prok_02186	P		
+TG9_prok_02187	K		
+TG9_prok_02188	E		
+TG9_prok_02189	O		
+TG9_prok_02190	S		
+TG9_prok_02191	L		
+TG9_prok_02193	S		
+TG9_prok_02194	S		
+TG9_prok_02196	A		
+TG9_prok_02197	P		
+TG9_prok_02198	S		
+TG9_prok_02199	S		
+TG9_prok_02200	G		
+TG9_prok_02201	S		
+TG9_prok_02202			
+TG9_prok_02203	S		
+TG9_prok_02204	K		
+TG9_prok_02205	C		
+TG9_prok_02206	I		
+TG9_prok_02207			
+TG9_prok_02208	K		
+TG9_prok_02209	G		
+TG9_prok_02210	S		
+TG9_prok_02211	C		
+TG9_prok_02212	C		
+TG9_prok_02213	C		
+TG9_prok_02214	E		
+TG9_prok_02216	E		
+TG9_prok_02217	J		
+TG9_prok_02218	E		
+TG9_prok_02220	S		
+TG9_prok_02221	C		
+TG9_prok_02222	C		
+TG9_prok_02223	C		
+TG9_prok_02224	O		
+TG9_prok_02225	S		
+TG9_prok_02226	S		
+TG9_prok_02227	S		
+TG9_prok_02228	S		
+TG9_prok_02229	S		
+TG9_prok_02230	S		
+TG9_prok_02231	E		
+TG9_prok_02232	S		
+TG9_prok_02233			
+TG9_prok_02234	G		
+TG9_prok_02235	S		
+TG9_prok_02236	O		
+TG9_prok_02237	V		
+TG9_prok_02238			
+TG9_prok_02239			
+TG9_prok_02240	E		
+TG9_prok_02241	C		
+TG9_prok_02242	Q		
+TG9_prok_02243	K		
+TG9_prok_02244	G		
+TG9_prok_02245	L		
+TG9_prok_02246			
+TG9_prok_02247	S		
+TG9_prok_02248			
+TG9_prok_02249	C		
+TG9_prok_02250	S		
+TG9_prok_02253	O		
+TG9_prok_02254	O		
+TG9_prok_02255	O		
+TG9_prok_02256	O		
+TG9_prok_02257	S		
+TG9_prok_02258	I		
+TG9_prok_02259	K		
+TG9_prok_02260	I		
+TG9_prok_02261	I		
+TG9_prok_02262	S		
+TG9_prok_02263	S		
+TG9_prok_02264	S		
+TG9_prok_02265	S		
+TG9_prok_02266	C		
+TG9_prok_02267	P		
+TG9_prok_02268	K		
+TG9_prok_02269	S		
+TG9_prok_02271	E		
+TG9_prok_02272	E		
+TG9_prok_02273	E		
+TG9_prok_02274	E		
+TG9_prok_02275	E		
+TG9_prok_02276	I		
+TG9_prok_02277	I		
+TG9_prok_02279	E		
+TG9_prok_02280			
+TG9_prok_02281	C		
+TG9_prok_02282	S		
+TG9_prok_02283	S		
+TG9_prok_02284	S		
+TG9_prok_02285			
+TG9_prok_02286	K		
+TG9_prok_02287	H		
+TG9_prok_02288	E		
+TG9_prok_02289			
+TG9_prok_02290	J		
+TG9_prok_02291	H		
+TG9_prok_02292	S		
+TG9_prok_02293	F		
+TG9_prok_02294	J		
+TG9_prok_02295	J		
+TG9_prok_02296	J		
+TG9_prok_02297	S		
+TG9_prok_02298	E		
+TG9_prok_02300	L		
+TG9_prok_02301	L		
+TG9_prok_02302	C		
+TG9_prok_02303	H		
+TG9_prok_02304	E		
+TG9_prok_02305	E		
+TG9_prok_02306	L		
+TG9_prok_02307	C		
+TG9_prok_02308	S		
+TG9_prok_02309	H		
+TG9_prok_02310	S		
+TG9_prok_02311	L		
+TG9_prok_02312	Q		
+TG9_prok_02313	J		
+TG9_prok_02314	S		
+TG9_prok_02315	L		
+TG9_prok_02316	C		
+TG9_prok_02317	L		
+TG9_prok_02318	H		
+TG9_prok_02319	D		
+TG9_prok_02320	S		
+TG9_prok_02321	J		
+TG9_prok_02322	K		
+TG9_prok_02323	L		
+TG9_prok_02325	Q		
+TG9_prok_02326	K		
+TG9_prok_02327	O		
+TG9_prok_02328	C		
+TG9_prok_02329			
+TG9_prok_02330	D		
+TG9_prok_02331	U		
+TG9_prok_02332	P		
+TG9_prok_02333	E		
+TG9_prok_02334	O		
+TG9_prok_02335	U		
+TG9_prok_02336	Q		
+TG9_prok_02342	G		
+TG9_prok_02343	E		
+TG9_prok_02344	M		
+TG9_prok_02345	E		
+TG9_prok_02346	E		
+TG9_prok_02347	S		
+TG9_prok_02348			
+TG9_prok_02349	H		
+TG9_prok_02350	L		
+TG9_prok_02351	L		
+TG9_prok_02352	L		
+TG9_prok_02353	L		
+TG9_prok_02354	L		
+TG9_prok_02355	L		
+TG9_prok_02357	L		
+TG9_prok_02358	L		
+TG9_prok_02359	L		
+TG9_prok_02360	L		
+TG9_prok_02362	G		
+TG9_prok_02363	S		
+TG9_prok_02365	S		
+TG9_prok_02367			
+TG9_prok_02368			
+TG9_prok_02370	K		
+TG9_prok_02371			
+TG9_prok_02373			
+TG9_prok_02374			
+TG9_prok_02375	Q		
+TG9_prok_02376	J		
+TG9_prok_02377	S		
+TG9_prok_02378	J		
+TG9_prok_02379	J		
+TG9_prok_02380	S		
+TG9_prok_02381	K		
+TG9_prok_02382	S		
+TG9_prok_02383	J		
+TG9_prok_02384	U		
+TG9_prok_02385	L		
+TG9_prok_02386	S		
+TG9_prok_02387	L		
+TG9_prok_02388	O		
+TG9_prok_02389	L		
+TG9_prok_02390	P		
+TG9_prok_02392	P		
+TG9_prok_02393	P		
+TG9_prok_02394	L		
+TG9_prok_02395	D		
+TG9_prok_02396	M		
+TG9_prok_02397	J		
+TG9_prok_02398	J		
+TG9_prok_02399	F		
+TG9_prok_02400	J		
+TG9_prok_02401	I		
+TG9_prok_02402	S		
+TG9_prok_02403	G		
+TG9_prok_02404	J		
+TG9_prok_02405	S		
+TG9_prok_02406	I		
+TG9_prok_02407	M		
+TG9_prok_02408	I		
+TG9_prok_02409	S		
+TG9_prok_02410	M		
+TG9_prok_02411	E		
+TG9_prok_02412	K		
+TG9_prok_02413	I		
+TG9_prok_02414	J		
+TG9_prok_02415	S		
+TG9_prok_02416			
+TG9_prok_02417	C		
+TG9_prok_02418	I		
+TG9_prok_02419	C		
+TG9_prok_02420	H		
+TG9_prok_02421	P		
+TG9_prok_02422	S		
+TG9_prok_02423	S		
+TG9_prok_02424	J		
+TG9_prok_02425	S		
+TG9_prok_02426	S		
+TG9_prok_02427			
+TG9_prok_02428	S		
+TG9_prok_02429	K		
+TG9_prok_02430	J		
+TG9_prok_02431	S		
+TG9_prok_02432	J		
+TG9_prok_02433	S		
+TG9_prok_02434	V		
+TG9_prok_02435	S		
+TG9_prok_02436	M		
+TG9_prok_02437	J		
+TG9_prok_02438	K		
+TG9_prok_02439	P		
+TG9_prok_02440	P		
+TG9_prok_02441	P		
+TG9_prok_02442	H		
+TG9_prok_02443	J		
+TG9_prok_02444	J		
+TG9_prok_02445	P		
+TG9_prok_02446	C		
+TG9_prok_02447	C		
+TG9_prok_02448	C		
+TG9_prok_02449	C		
+TG9_prok_02450	O		
+TG9_prok_02451	S		
+TG9_prok_02452	K		
+TG9_prok_02453	E		
+TG9_prok_02454	S		
+TG9_prok_02455	S		
+TG9_prok_02456	S		
+TG9_prok_02457	S		
+TG9_prok_02458	F		
+TG9_prok_02459	E		
+TG9_prok_02460	S		
+TG9_prok_02461			
+TG9_prok_02462	D		
+TG9_prok_02463	P		
+TG9_prok_02464	S		
+TG9_prok_02465	E		
+TG9_prok_02466	I		
+TG9_prok_02467	K		
+TG9_prok_02468	K	 T	
+TG9_prok_02469	S		
+TG9_prok_02470	P		
+TG9_prok_02471	P		
+TG9_prok_02472	S		
+TG9_prok_02474	S		
+TG9_prok_02475	C	 G	
+TG9_prok_02476	S		
+TG9_prok_02477	L		
+TG9_prok_02478	S		
+TG9_prok_02479	E		
+TG9_prok_02480	E		
+TG9_prok_02481	P		
+TG9_prok_02482	E		
+TG9_prok_02483	J		
+TG9_prok_02484			
+TG9_prok_02485	S		
+TG9_prok_02486			
+TG9_prok_02487	J		
+TG9_prok_02488	E		
+TG9_prok_02489	S		
+TG9_prok_02490	S		
+TG9_prok_02491	G		
+TG9_prok_02492	G		
+TG9_prok_02493	G		
+TG9_prok_02494	K		
+TG9_prok_02495	G		
+TG9_prok_02496	F		
+TG9_prok_02497	I		
+TG9_prok_02498	L		
+TG9_prok_02499	S		
+TG9_prok_02500	K		
+TG9_prok_02501	L		
+TG9_prok_02502	S		
+TG9_prok_02503	H		
+TG9_prok_02504			
+TG9_prok_02505	L		
+TG9_prok_02506			
+TG9_prok_02507	K		
+TG9_prok_02508	K		
+TG9_prok_02509	L		
+TG9_prok_02510	S		
+TG9_prok_02511	S		
+TG9_prok_02512			
+TG9_prok_02514			
+TG9_prok_02515	M		
+TG9_prok_02516	K		
+TG9_prok_02517	B	 Q	
+TG9_prok_02518	C		
+TG9_prok_02519	K		
+TG9_prok_02520	J		
+TG9_prok_02521	S		
+TG9_prok_02522	S		
+TG9_prok_02523	S		
+TG9_prok_02524	V		
+TG9_prok_02525			
+TG9_prok_02526	S		
+TG9_prok_02527	P		
+TG9_prok_02528	P		
+TG9_prok_02529	K		
+TG9_prok_02530	G		
+TG9_prok_02531	G		
+TG9_prok_02532	S		
+TG9_prok_02533			
+TG9_prok_02534	S		
+TG9_prok_02535	F		
+TG9_prok_02536	S		
+TG9_prok_02537	S		
+TG9_prok_02538	S		
+TG9_prok_02539	S		
+TG9_prok_02540	P		
+TG9_prok_02541	P		
+TG9_prok_02542	E		
+TG9_prok_02543	J		
+TG9_prok_02544	K		
+TG9_prok_02545	P		
+TG9_prok_02546	H		
+TG9_prok_02547	G		
+TG9_prok_02548	J		
+TG9_prok_02549	S		
+TG9_prok_02550	S		
+TG9_prok_02551	H		
+TG9_prok_02552	H		
+TG9_prok_02553	S		
+TG9_prok_02554	C		
+TG9_prok_02555	C		
+TG9_prok_02556	S		
+TG9_prok_02557	O		
+TG9_prok_02558	S		
+TG9_prok_02559	S		
+TG9_prok_02560	S		
+TG9_prok_02561	K		
+TG9_prok_02562			
+TG9_prok_02569	S		
+TG9_prok_02570	J		
+TG9_prok_02571	F	 G	
+TG9_prok_02572	I		
+TG9_prok_02573	M		
+TG9_prok_02574	M		
+TG9_prok_02575	L		
+TG9_prok_02576	H		
+TG9_prok_02577	T		
+TG9_prok_02578	S		
+TG9_prok_02579	I		
+TG9_prok_02580	H		
+TG9_prok_02581	K		
+TG9_prok_02582	L		
+TG9_prok_02583	L		
+TG9_prok_02584	L		
+TG9_prok_02585	U		
+TG9_prok_02586	U		
+TG9_prok_02587	U		
+TG9_prok_02588	E		
+TG9_prok_02589	F		
+TG9_prok_02590	F		
+TG9_prok_02591	O		
+TG9_prok_02592	O		
+TG9_prok_02593	S		
+TG9_prok_02594	J		
+TG9_prok_02595			
+TG9_prok_02596			
+TG9_prok_02597	S		
+TG9_prok_02598	L		
+TG9_prok_02599			
+TG9_prok_02600	K		
+TG9_prok_02601	S		
+TG9_prok_02602	S		
+TG9_prok_02603	P		
+TG9_prok_02604	P		
+TG9_prok_02606			
+TG9_prok_02607	L		
+TG9_prok_02608	S		
+TG9_prok_02609			
+TG9_prok_02612	S		
+TG9_prok_02613	J		
+TG9_prok_02614			
+TG9_prok_02615			
+TG9_prok_02616	P		
+TG9_prok_02617	L		
+TG9_prok_02618	J		
+TG9_prok_02619	L		
+TG9_prok_02620	S		
+TG9_prok_02621	E		
+TG9_prok_02622	I		
+TG9_prok_02623	S		
+TG9_prok_02624	K		
+TG9_prok_02625	S		
+TG9_prok_02626	N	 O	 U
+TG9_prok_02627	E		
+TG9_prok_02628	E		
+TG9_prok_02629	E		
+TG9_prok_02630	S		
+TG9_prok_02631			
+TG9_prok_02632	E		
+TG9_prok_02633	J		
+TG9_prok_02634	K		
+TG9_prok_02635	F		
+TG9_prok_02636	F		
+TG9_prok_02637	F		
+TG9_prok_02638	S		
+TG9_prok_02639	F		
+TG9_prok_02640	F		
+TG9_prok_02641	F		
+TG9_prok_02642	S		
+TG9_prok_02643	F		
+TG9_prok_02644	K		
+TG9_prok_02645	H		
+TG9_prok_02646	H		
+TG9_prok_02647	L		
+TG9_prok_02648	S		
+TG9_prok_02649	S		
+TG9_prok_02650	S		
+TG9_prok_02651	J		
+TG9_prok_02652	J		
+TG9_prok_02655	T		
+TG9_prok_02656	P		
+TG9_prok_02657	G		
+TG9_prok_02658	G		
+TG9_prok_02659	S		
+TG9_prok_02660	G		
+TG9_prok_02661	H		
+TG9_prok_02662	H		
+TG9_prok_02663	H		
+TG9_prok_02664	H		
+TG9_prok_02665	S		
+TG9_prok_02666	L		
+TG9_prok_02667	S		
+TG9_prok_02668	S		
+TG9_prok_02669	K		
+TG9_prok_02670	G		
+TG9_prok_02671	G		
+TG9_prok_02672	G		
+TG9_prok_02673	U		
+TG9_prok_02674	C		
+TG9_prok_02675	S		
+TG9_prok_02676	K		
+TG9_prok_02677	S		
+TG9_prok_02678			
+TG9_prok_02679	E		
+TG9_prok_02681	G		
+TG9_prok_02682	G		
+TG9_prok_02683	G		
+TG9_prok_02684	G		
+TG9_prok_02685	G		
+TG9_prok_02686	O		
+TG9_prok_02687	C		
+TG9_prok_02688			
+TG9_prok_02689	O		
+TG9_prok_02690	V		
+TG9_prok_02691	P		
+TG9_prok_02692	S		
+TG9_prok_02693	K		
+TG9_prok_02694	O		
+TG9_prok_02695	O		
+TG9_prok_02696	O		
+TG9_prok_02697	E		
+TG9_prok_02698	C		
+TG9_prok_02699	S		
+TG9_prok_02700	L		
+TG9_prok_02701	H		
+TG9_prok_02702	S		
+TG9_prok_02703	K		
+TG9_prok_02704	K		
+TG9_prok_02705	C		
+TG9_prok_02706	S		
+TG9_prok_02707	M		
+TG9_prok_02708	S		
+TG9_prok_02709	S		
+TG9_prok_02710	S		
+TG9_prok_02711	I		
+TG9_prok_02712	I		
+TG9_prok_02713	H		
+TG9_prok_02714	K		
+TG9_prok_02715	Q		
+TG9_prok_02716			
+TG9_prok_02717	S		
+TG9_prok_02719	O	 U	
+TG9_prok_02720	O		
+TG9_prok_02721	S		
+TG9_prok_02722	S		
+TG9_prok_02723	S		
+TG9_prok_02724			
+TG9_prok_02725			
+TG9_prok_02726			
+TG9_prok_02727	Q		
+TG9_prok_02728	Q		
+TG9_prok_02729	S		
+TG9_prok_02730	I		
+TG9_prok_02731	I		
+TG9_prok_02732	E		
+TG9_prok_02733	S		
+TG9_prok_02735	S		
+TG9_prok_02736	S		
+TG9_prok_02737	S		
+TG9_prok_02738	S		
+TG9_prok_02739	S		
+TG9_prok_02740			
+TG9_prok_02743	E		
+TG9_prok_02744	S		
+TG9_prok_02745	F		
+TG9_prok_02746			
+TG9_prok_02747	S		
+TG9_prok_02748	P		
+TG9_prok_02749	P		
+TG9_prok_02750	P		
+TG9_prok_02751	P		
+TG9_prok_02752	C		
+TG9_prok_02753	V		
+TG9_prok_02754	G		
+TG9_prok_02755	S		
+TG9_prok_02756	S		
+TG9_prok_02757	J		
+TG9_prok_02758	L		
+TG9_prok_02759	T		
+TG9_prok_02760	T		
+TG9_prok_02761	S		
+TG9_prok_02763	S		
+TG9_prok_02764	S		
+TG9_prok_02765			
+TG9_prok_02768			
+TG9_prok_02771	S		
+TG9_prok_02772	S		
+TG9_prok_02773	S		
+TG9_prok_02774	S		
+TG9_prok_02775	S		
+TG9_prok_02776			
+TG9_prok_02777	L		
+TG9_prok_02778	M		
+TG9_prok_02779	S		
+TG9_prok_02781	J		
+TG9_prok_02782	S		
+TG9_prok_02784	S		
+TG9_prok_02785			
+TG9_prok_02786	S		
+TG9_prok_02787	S		
+TG9_prok_02788	S		
+TG9_prok_02789	Q	 T	
+TG9_prok_02790	I		
+TG9_prok_02791	V		
+TG9_prok_02792	J		
+TG9_prok_02793	K		
+TG9_prok_02794			
+TG9_prok_02795	Q		
+TG9_prok_02796	S		
+TG9_prok_02798	L		
+TG9_prok_02799	L		
+TG9_prok_02800	C		
+TG9_prok_02801	C		
+TG9_prok_02802	C		
+TG9_prok_02803	K		
+TG9_prok_02804	C		
+TG9_prok_02805	C		
+TG9_prok_02806	K		
+TG9_prok_02807	S		
+TG9_prok_02808	K		
+TG9_prok_02809	L		
+TG9_prok_02810	O		
+TG9_prok_02811	S		
+TG9_prok_02813	Q		
+TG9_prok_02814			
+TG9_prok_02815	L		
+TG9_prok_02817	P		
+TG9_prok_02818	S		
+TG9_prok_02819	C		
+TG9_prok_02820	K		
+TG9_prok_02821	S		
+TG9_prok_02822	K		
+TG9_prok_02823	S		
+TG9_prok_02824	S		
+TG9_prok_02825	S		
+TG9_prok_02826	K		
+TG9_prok_02827			
+TG9_prok_02828	S		
+TG9_prok_02829	S		
+TG9_prok_02830	C		
+TG9_prok_02831	S		
+TG9_prok_02832	S		
+TG9_prok_02833	G		
+TG9_prok_02834	H		
+TG9_prok_02835	S		
+TG9_prok_02836	P		
+TG9_prok_02837	O		
+TG9_prok_02839	E		
+TG9_prok_02840	E		
+TG9_prok_02841	E		
+TG9_prok_02842	C		
+TG9_prok_02843	I		
+TG9_prok_02844	G		
+TG9_prok_02845	K		
+TG9_prok_02847	S		
+TG9_prok_02848	S		
+TG9_prok_02849	L		
+TG9_prok_02850	S		
+TG9_prok_02851	P		
+TG9_prok_02852	C		
+TG9_prok_02853	G		
+TG9_prok_02854	K		
+TG9_prok_02855	T		
+TG9_prok_02856	P		
+TG9_prok_02857	S		
+TG9_prok_02858	K		
+TG9_prok_02859	C		
+TG9_prok_02860	C		
+TG9_prok_02861	C		
+TG9_prok_02862	S		
+TG9_prok_02863	K		
+TG9_prok_02865	P		
+TG9_prok_02866	S		
+TG9_prok_02867	S		
+TG9_prok_02868	K		
+TG9_prok_02869	P		
+TG9_prok_02870	P		
+TG9_prok_02872			
+TG9_prok_02873			
+TG9_prok_02876	S		
+TG9_prok_02877	I		
+TG9_prok_02878	I		
+TG9_prok_02879	I		
+TG9_prok_02880			
+TG9_prok_02881			
+TG9_prok_02882	S		
+TG9_prok_02883	S		
+TG9_prok_02884	L		
+TG9_prok_02885	G		
+TG9_prok_02886	S		
+TG9_prok_02887	S		
+TG9_prok_02888	K		
+TG9_prok_02889	S		
+TG9_prok_02890	I		
+TG9_prok_02891	T		
+TG9_prok_02893	P		
+TG9_prok_02894	P		
+TG9_prok_02896	L		
+TG9_prok_02897			
+TG9_prok_02898	L		
+TG9_prok_02899	L		
+TG9_prok_02900	S		
+TG9_prok_02901	S		
+TG9_prok_02902	O		
+TG9_prok_02903	S		
+TG9_prok_02904	S		
+TG9_prok_02905	M		
+TG9_prok_02906			
+TG9_prok_02907	S		
+TG9_prok_02908	G		
+TG9_prok_02910	T		
+TG9_prok_02911	S		
+TG9_prok_02912	G		
+TG9_prok_02913	J		
+TG9_prok_02915	T		
+TG9_prok_02916	C		
+TG9_prok_02917	I		
+TG9_prok_02918	Q		
+TG9_prok_02919	P		
+TG9_prok_02920			
+TG9_prok_02921			
+TG9_prok_02922	I		
+TG9_prok_02923	T		
+TG9_prok_02924			
+TG9_prok_02926	E		
+TG9_prok_02927	O		
+TG9_prok_02928	S		
+TG9_prok_02929	S		
+TG9_prok_02930			
+TG9_prok_02931	L		
+TG9_prok_02932	P		
+TG9_prok_02933	V		
+TG9_prok_02934	V		
+TG9_prok_02936	S		
+TG9_prok_02937	S		
+TG9_prok_02940			
+TG9_prok_02941	E		
+TG9_prok_02942	L		
+TG9_prok_02943	P		
+TG9_prok_02944	P		
+TG9_prok_02945	L		
+TG9_prok_02946	P		
+TG9_prok_02947	P		
+TG9_prok_02948	S		
+TG9_prok_02949	S		
+TG9_prok_02950	M		
+TG9_prok_02952	M		
+TG9_prok_02953	S		
+TG9_prok_02954	L		
+TG9_prok_02955	L		
+TG9_prok_02956	L		
+TG9_prok_02957	L		
+TG9_prok_02958	L		
+TG9_prok_02960	L		
+TG9_prok_02961	L		
+TG9_prok_02962	E		
+TG9_prok_02963	L		
+TG9_prok_02964	L		
+TG9_prok_02965	M		
+TG9_prok_02966	G		
+TG9_prok_02967	G		
+TG9_prok_02968	G		
+TG9_prok_02969	G		
+TG9_prok_02970			
+TG9_prok_02971	H		
+TG9_prok_02972	S		
+TG9_prok_02973	G		
+TG9_prok_02974	S		
+TG9_prok_02975	E		
+TG9_prok_02976	E		
+TG9_prok_02977	S		
+TG9_prok_02978	J		
+TG9_prok_02979	E		
+TG9_prok_02980	E		
+TG9_prok_02981			
+TG9_prok_02982	L		
+TG9_prok_02983	J		
+TG9_prok_02985	Z		
+TG9_prok_02986	S		
+TG9_prok_02987	S		
+TG9_prok_02988	O		
+TG9_prok_02989	O		
+TG9_prok_02990	O		
+TG9_prok_02991	I		
+TG9_prok_02992	E		
+TG9_prok_02993	K		
+TG9_prok_02994	K		
+TG9_prok_02995	U		
+TG9_prok_02996	U		
+TG9_prok_02997	L		
+TG9_prok_02998			
+TG9_prok_02999	L		
+TG9_prok_03000	E		
+TG9_prok_03001	I	 Q	
+TG9_prok_03002	S		
+TG9_prok_03003	L		
+TG9_prok_03004	L		
+TG9_prok_03005			
+TG9_prok_03006	S		
+TG9_prok_03008	S		
+TG9_prok_03009	H		
+TG9_prok_03010	T		
+TG9_prok_03011	T		
+TG9_prok_03012	L		
+TG9_prok_03013	L		
+TG9_prok_03015	I		
+TG9_prok_03016	T		
+TG9_prok_03017	K		
+TG9_prok_03018	T		
+TG9_prok_03020	L		
+TG9_prok_03021	L		
+TG9_prok_03022	L		
+TG9_prok_03023			
+TG9_prok_03024	L		
+TG9_prok_03026	L		
+TG9_prok_03028			
+TG9_prok_03030	L		
+TG9_prok_03031	L		
+TG9_prok_03032	C		
+TG9_prok_03033	H		
+TG9_prok_03034	S		
+TG9_prok_03035	S		
+TG9_prok_03036	O		
+TG9_prok_03037	S		
+TG9_prok_03038	S		
+TG9_prok_03039	S		
+TG9_prok_03040	S		
+TG9_prok_03041	S		
+TG9_prok_03042	M		
+TG9_prok_03043	M		
+TG9_prok_03044	S		
+TG9_prok_03045	E		
+TG9_prok_03046	E		
+TG9_prok_03047	S		
+TG9_prok_03048			
+TG9_prok_03049			
+TG9_prok_03051	Q		
+TG9_prok_03052	S		
+TG9_prok_03054	S		
+TG9_prok_03055	V		
+TG9_prok_03058	P		
+TG9_prok_03059	T		
+TG9_prok_03060	T		
+TG9_prok_03061	G		
+TG9_prok_03063	K		
+TG9_prok_03064	S		
+TG9_prok_03066	G	 M	
+TG9_prok_03067	S		
+TG9_prok_03069	S		
+TG9_prok_03070			
+TG9_prok_03071	L		
+TG9_prok_03072	C		
+TG9_prok_03073	Q		
+TG9_prok_03075	S		
+TG9_prok_03076	P		
+TG9_prok_03077	P		
+TG9_prok_03078	P		
+TG9_prok_03079	K		
+TG9_prok_03080	O		
+TG9_prok_03081	G		
+TG9_prok_03082	E	 G	
+TG9_prok_03083	Q		
+TG9_prok_03084	P		
+TG9_prok_03085	P		
+TG9_prok_03086			
+TG9_prok_03087	C		
+TG9_prok_03088	S		
+TG9_prok_03089	S		
+TG9_prok_03090	E		
+TG9_prok_03091	K		
+TG9_prok_03092	S		
+TG9_prok_03093	K		
+TG9_prok_03094	T		
+TG9_prok_03095	E		
+TG9_prok_03096	S		
+TG9_prok_03097	S		
+TG9_prok_03098	S		
+TG9_prok_03099	I		
+TG9_prok_03100	L		
+TG9_prok_03101	S		
+TG9_prok_03102	S		
+TG9_prok_03103	S		
+TG9_prok_03105	K		
+TG9_prok_03106	S		
+TG9_prok_03108	F		
+TG9_prok_03109	F		
+TG9_prok_03110	J		
+TG9_prok_03111	K		
+TG9_prok_03112	S		
+TG9_prok_03113	D		
+TG9_prok_03114	L		
+TG9_prok_03115	F		
+TG9_prok_03116	F		
+TG9_prok_03117	S		
+TG9_prok_03118	S		
+TG9_prok_03119	L		
+TG9_prok_03120	G		
+TG9_prok_03121	J		
+TG9_prok_03123	G		
+TG9_prok_03124	S		
+TG9_prok_03128	J		
+TG9_prok_03129	L		
+TG9_prok_03130	S		
+TG9_prok_03131	I		
+TG9_prok_03132	E		
+TG9_prok_03133	E		
+TG9_prok_03134	K		
+TG9_prok_03135	E		
+TG9_prok_03136	E		
+TG9_prok_03137	E		
+TG9_prok_03138	E		
+TG9_prok_03139	E		
+TG9_prok_03140	K	 T	
+TG9_prok_03141	M		
+TG9_prok_03142	K		
+TG9_prok_03143	J		
+TG9_prok_03144	J		
+TG9_prok_03145	J		
+TG9_prok_03146	J		
+TG9_prok_03147	J		
+TG9_prok_03148	J		
+TG9_prok_03149			
+TG9_prok_03150	L		
+TG9_prok_03151	S		
+TG9_prok_03153	S		
+TG9_prok_03154	S		
+TG9_prok_03155	L		
+TG9_prok_03157	T		
+TG9_prok_03158			
+TG9_prok_03159	L		
+TG9_prok_03160	S		
+TG9_prok_03161	E		
+TG9_prok_03163	T		
+TG9_prok_03164	K		
+TG9_prok_03166	K		
+TG9_prok_03167	H		
+TG9_prok_03168	C		
+TG9_prok_03169	H		
+TG9_prok_03170			
+TG9_prok_03171	C		
+TG9_prok_03172	K		
+TG9_prok_03173	P		
+TG9_prok_03174			
+TG9_prok_03175	J		
+TG9_prok_03176	Q		
+TG9_prok_03177	E		
+TG9_prok_03178	E		
+TG9_prok_03179	E		
+TG9_prok_03180	E		
+TG9_prok_03181			
+TG9_prok_03182	K		
+TG9_prok_03183	O		
+TG9_prok_03184	L		
+TG9_prok_03185	E		
+TG9_prok_03186	E		
+TG9_prok_03187	E		
+TG9_prok_03188	E		
+TG9_prok_03189	E		
+TG9_prok_03190	T		
+TG9_prok_03193	L		
+TG9_prok_03196			
+TG9_prok_03197	T		
+TG9_prok_03198	G		
+TG9_prok_03199	S		
+TG9_prok_03200	S		
+TG9_prok_03201	M		
+TG9_prok_03203	O		
+TG9_prok_03204	C		
+TG9_prok_03205	C		
+TG9_prok_03206	C		
+TG9_prok_03207	C		
+TG9_prok_03208	C		
+TG9_prok_03209	C		
+TG9_prok_03210	C		
+TG9_prok_03211	C		
+TG9_prok_03212	C		
+TG9_prok_03213	C		
+TG9_prok_03214	C		
+TG9_prok_03215	C		
+TG9_prok_03216	C		
+TG9_prok_03217	T		
+TG9_prok_03219	P		
+TG9_prok_03220	P		
+TG9_prok_03221	P		
+TG9_prok_03222	P		
+TG9_prok_03223	S		
+TG9_prok_03224	S		
+TG9_prok_03225	K		
+TG9_prok_03226	I		
+TG9_prok_03227	G		
+TG9_prok_03228	S		
+TG9_prok_03229	M		
+TG9_prok_03230	E		
+TG9_prok_03231	E		
+TG9_prok_03232	E		
+TG9_prok_03233	S		
+TG9_prok_03234	E		
+TG9_prok_03235	S		
+TG9_prok_03236	K		
+TG9_prok_03237	S		
+TG9_prok_03238	E		
+TG9_prok_03239	E		
+TG9_prok_03240	G		
+TG9_prok_03241	E		
+TG9_prok_03242	L		
+TG9_prok_03243	K		
+TG9_prok_03244			
+TG9_prok_03245	E		
+TG9_prok_03246	G		
+TG9_prok_03248	E		
+TG9_prok_03249	E		
+TG9_prok_03250	E		
+TG9_prok_03251	K		
+TG9_prok_03252	I		
+TG9_prok_03254	S		
+TG9_prok_03255	S		
+TG9_prok_03256	H		
+TG9_prok_03257	H		
+TG9_prok_03258	H		
+TG9_prok_03259	F		
+TG9_prok_03261	K		
+TG9_prok_03262	S		
+TG9_prok_03263	S		
+TG9_prok_03264	S		
+TG9_prok_03265			
+TG9_prok_03266	S		
+TG9_prok_03267	H		
+TG9_prok_03268	K		
+TG9_prok_03269	S		
+TG9_prok_03270	S		
+TG9_prok_03271	S		
+TG9_prok_03272	S		
+TG9_prok_03273			
+TG9_prok_03274	S		
+TG9_prok_03275	P		
+TG9_prok_03276	P		
+TG9_prok_03277	C		
+TG9_prok_03278	C		
+TG9_prok_03279	S		
+TG9_prok_03280			
+TG9_prok_03281	H		
+TG9_prok_03282	H		
+TG9_prok_03283	H		
+TG9_prok_03284	I		
+TG9_prok_03285	G		
+TG9_prok_03286	G		
+TG9_prok_03287			
+TG9_prok_03288	K		
+TG9_prok_03289	S		
+TG9_prok_03290	S		
+TG9_prok_03291	S		
+TG9_prok_03292	K		
+TG9_prok_03293	G		
+TG9_prok_03295	E		
+TG9_prok_03296	S		
+TG9_prok_03298	L		
+TG9_prok_03299	S		
+TG9_prok_03300			
+TG9_prok_03301	J		
+TG9_prok_03302	U		
+TG9_prok_03303			
+TG9_prok_03304	S		
+TG9_prok_03305	L		
+TG9_prok_03306	J		
+TG9_prok_03308	D		
+TG9_prok_03309	S		
+TG9_prok_03310	S		
+TG9_prok_03311	S		
+TG9_prok_03312	S		
+TG9_prok_03313	D		
+TG9_prok_03314	M		
+TG9_prok_03315	M		
+TG9_prok_03316	M		
+TG9_prok_03317	D		
+TG9_prok_03318	M		
+TG9_prok_03319	M		
+TG9_prok_03320	M		
+TG9_prok_03321	M		
+TG9_prok_03322	M		
+TG9_prok_03323			
+TG9_prok_03324	M		
+TG9_prok_03325	S		
+TG9_prok_03326	S		
+TG9_prok_03327			
+TG9_prok_03328	S		
+TG9_prok_03329	Q		
+TG9_prok_03330	S		
+TG9_prok_03331	S		
+TG9_prok_03332	M		
+TG9_prok_03333	E		
+TG9_prok_03334	H		
+TG9_prok_03335	Q		
+TG9_prok_03336	S		
+TG9_prok_03337	I		
+TG9_prok_03338	K		
+TG9_prok_03339	T		
+TG9_prok_03340	E		
+TG9_prok_03341			
+TG9_prok_03342	I		
+TG9_prok_03343	G		
+TG9_prok_03344			
+TG9_prok_03345	P		
+TG9_prok_03346	S		
+TG9_prok_03347			
+TG9_prok_03348	M		
+TG9_prok_03349			
+TG9_prok_03350	M		
+TG9_prok_03351	M		
+TG9_prok_03352	L		
+TG9_prok_03353	K		
+TG9_prok_03354	E		
+TG9_prok_03355			
+TG9_prok_03356	C		
+TG9_prok_03357	C		
+TG9_prok_03358	C		
+TG9_prok_03359	C		
+TG9_prok_03360			
+TG9_prok_03361	K		
+TG9_prok_03362	C		
+TG9_prok_03363	C		
+TG9_prok_03364	E		
+TG9_prok_03365	F		
+TG9_prok_03366	S		
+TG9_prok_03367	S		
+TG9_prok_03368	H		
+TG9_prok_03369	H		
+TG9_prok_03370	L		
+TG9_prok_03371	E		
+TG9_prok_03372	E		
+TG9_prok_03373	E		
+TG9_prok_03374	C		
+TG9_prok_03375	H		
+TG9_prok_03376	H		
+TG9_prok_03377	S		
+TG9_prok_03378	S		
+TG9_prok_03379	E		
+TG9_prok_03381	P		
+TG9_prok_03384	O	 T	
+TG9_prok_03385	E		
+TG9_prok_03386	S		
+TG9_prok_03387	H		
+TG9_prok_03388			
+TG9_prok_03389	E		
+TG9_prok_03390			
+TG9_prok_03391	K		
+TG9_prok_03392			
+TG9_prok_03394	S		
+TG9_prok_03396	G		
+TG9_prok_03397	S		
+TG9_prok_03398	S		
+TG9_prok_03399	S		
+TG9_prok_03400	T		
+TG9_prok_03401	S		
+TG9_prok_03403			
+TG9_prok_03404	S		
+TG9_prok_03406	L		
+TG9_prok_03408	S		
+TG9_prok_03412	L		
+TG9_prok_03415	S		
+TG9_prok_03416	K		
+TG9_prok_03417	C		
+TG9_prok_03418	Q		
+TG9_prok_03419	C		
+TG9_prok_03420			
+TG9_prok_03421	K		
+TG9_prok_03422	P		
+TG9_prok_03423	L		
+TG9_prok_03424	M		
+TG9_prok_03425	L		
+TG9_prok_03426			
+TG9_prok_03427	L		
+TG9_prok_03430			
+TG9_prok_03433	L		
+TG9_prok_03436	O		
+TG9_prok_03437	S		
+TG9_prok_03438	C		
+TG9_prok_03439	K		
+TG9_prok_03440	I		
+TG9_prok_03441	I		
+TG9_prok_03442	I		
+TG9_prok_03443	I		
+TG9_prok_03444	S		
+TG9_prok_03445	V		
+TG9_prok_03446	C		
+TG9_prok_03447	J		
+TG9_prok_03449	I		
+TG9_prok_03450	S		
+TG9_prok_03451	S		
+TG9_prok_03452	L		
+TG9_prok_03453	L		
+TG9_prok_03455	L		
+TG9_prok_03456	L		
+TG9_prok_03457	L		
+TG9_prok_03458	L		
+TG9_prok_03459	K		
+TG9_prok_03460			
+TG9_prok_03461			
+TG9_prok_03462	S		
+TG9_prok_03463	K		
+TG9_prok_03465	P		
+TG9_prok_03467			
+TG9_prok_03472	S		
+TG9_prok_03478	S		
+TG9_prok_03485			
+TG9_prok_03487	L		
+TG9_prok_03490			
+TG9_prok_03491	L		
+TG9_prok_03492	F		
+TG9_prok_03493	S		
+TG9_prok_03494	S		
+TG9_prok_03496	J		
+TG9_prok_03497	K		
+TG9_prok_03498	P		
+TG9_prok_03499			
+TG9_prok_03500			
+TG9_prok_03501	I		
+TG9_prok_03502	L		
+TG9_prok_03503	Q		
+TG9_prok_03504	K		
+TG9_prok_03505	S		
+TG9_prok_03506	S		
+TG9_prok_03507	P		
+TG9_prok_03508	S		
+TG9_prok_03509	T		
+TG9_prok_03510	K		
+TG9_prok_03511	P		
+TG9_prok_03512	S		
+TG9_prok_03513	S		
+TG9_prok_03514	O		
+TG9_prok_03515	K		
+TG9_prok_03516	K		
+TG9_prok_03517	H		
+TG9_prok_03518	C		
+TG9_prok_03519	P		
+TG9_prok_03520	P		
+TG9_prok_03521	P		
+TG9_prok_03522	H		
+TG9_prok_03523	S		
+TG9_prok_03524	T		
+TG9_prok_03525	P		
+TG9_prok_03526	P		
+TG9_prok_03527	P		
+TG9_prok_03528	P		
+TG9_prok_03529			
+TG9_prok_03530	G		
+TG9_prok_03531	P		
+TG9_prok_03532	S		
+TG9_prok_03533	M		
+TG9_prok_03534	S		
+TG9_prok_03535	G		
+TG9_prok_03536	J		
+TG9_prok_03537	L		
+TG9_prok_03538	S		
+TG9_prok_03539	L		
+TG9_prok_03540	S		
+TG9_prok_03541			
+TG9_prok_03542	G		
+TG9_prok_03543	S		
+TG9_prok_03544	H		
+TG9_prok_03545	S		
+TG9_prok_03546	S		
+TG9_prok_03547	E		
+TG9_prok_03548	M		
+TG9_prok_03549	E		
+TG9_prok_03550	C		
+TG9_prok_03551	S		
+TG9_prok_03552	P		
+TG9_prok_03553	L		
+TG9_prok_03554	L		
+TG9_prok_03555	E		
+TG9_prok_03556	E		
+TG9_prok_03557	K		
+TG9_prok_03558	S		
+TG9_prok_03562	J		
+TG9_prok_03563	Q		
+TG9_prok_03564	G		
+TG9_prok_03565	E		
+TG9_prok_03566	E		
+TG9_prok_03567	P		
+TG9_prok_03568	E		
+TG9_prok_03569	E		
+TG9_prok_03570	E		
+TG9_prok_03571	S		
+TG9_prok_03572	E		
+TG9_prok_03573	S		
+TG9_prok_03574	G		
+TG9_prok_03575	P		
+TG9_prok_03576	J		
+TG9_prok_03577	G		
+TG9_prok_03578	S		
+TG9_prok_03579			
+TG9_prok_03580	T		
+TG9_prok_03581	T		
+TG9_prok_03582			
+TG9_prok_03583	S		
+TG9_prok_03584	J		
+TG9_prok_03585	J		
+TG9_prok_03586	E		
+TG9_prok_03587	K		
+TG9_prok_03588	E		
+TG9_prok_03589	S		
+TG9_prok_03590			
+TG9_prok_03591	Q		
+TG9_prok_03592			
+TG9_prok_03593	L		
+TG9_prok_03594	S		
+TG9_prok_03595	J		
+TG9_prok_03596	E		
+TG9_prok_03597	I		
+TG9_prok_03598	S		
+TG9_prok_03599	C		
+TG9_prok_03600	C		
+TG9_prok_03601	S		
+TG9_prok_03602	G		
+TG9_prok_03603	M		
+TG9_prok_03604	S		
+TG9_prok_03605	J		
+TG9_prok_03606	J		
+TG9_prok_03607	S		
+TG9_prok_03608	S		
+TG9_prok_03609	S		
+TG9_prok_03610	S		
+TG9_prok_03611	I		
+TG9_prok_03612	L		
+TG9_prok_03613	P		
+TG9_prok_03614	G		
+TG9_prok_03615	S		
+TG9_prok_03616	E		
+TG9_prok_03617	C		
+TG9_prok_03618	P		
+TG9_prok_03619	P		
+TG9_prok_03620	L		
+TG9_prok_03621	M		
+TG9_prok_03622	F		
+TG9_prok_03623	F		
+TG9_prok_03624	F		
+TG9_prok_03625	O		
+TG9_prok_03626	F		
+TG9_prok_03627	F		
+TG9_prok_03628	F		
+TG9_prok_03629	S		
+TG9_prok_03630	K		
+TG9_prok_03631	S		
+TG9_prok_03632	S		
+TG9_prok_03633	F		
+TG9_prok_03634	G		
+TG9_prok_03635	H		
+TG9_prok_03636	H		
+TG9_prok_03637	H		
+TG9_prok_03638	H		
+TG9_prok_03639	H		
+TG9_prok_03640	H		
+TG9_prok_03641	L		
+TG9_prok_03642	S		
+TG9_prok_03643	S		
+TG9_prok_03644	C		
+TG9_prok_03645	O		
+TG9_prok_03646	K		
+TG9_prok_03647	I		
+TG9_prok_03648	P		
+TG9_prok_03649	K		
+TG9_prok_03650	C		
+TG9_prok_03651	S		
+TG9_prok_03652	L		
+TG9_prok_03653			
+TG9_prok_03654	K		
+TG9_prok_03661	O		
+TG9_prok_03662	S		
+TG9_prok_03663	G		
+TG9_prok_03664	G		
+TG9_prok_03666	S		
+TG9_prok_03667	O		
+TG9_prok_03668	D		
+TG9_prok_03669	D		
+TG9_prok_03670	V	 W	
+TG9_prok_03671	M		
+TG9_prok_03672	J		
+TG9_prok_03673	E		
+TG9_prok_03674	I		
+TG9_prok_03675	I		
+TG9_prok_03676	Q		
+TG9_prok_03678	S		
+TG9_prok_03679	L		
+TG9_prok_03680	L		
+TG9_prok_03681	S		
+TG9_prok_03682			
+TG9_prok_03683	T		
+TG9_prok_03684	S		
+TG9_prok_03685			
+TG9_prok_03686	H		
+TG9_prok_03687	K		
+TG9_prok_03688	L		
+TG9_prok_03689	O		
+TG9_prok_03690	L		
+TG9_prok_03691	P		
+TG9_prok_03692	S		
+TG9_prok_03693	S		
+TG9_prok_03694	L		
+TG9_prok_03695	L		
+TG9_prok_03696	S		
+TG9_prok_03697	L		
+TG9_prok_03699	H		
+TG9_prok_03700	H		
+TG9_prok_03701	H		
+TG9_prok_03702	C		
+TG9_prok_03703	C		
+TG9_prok_03704	P		
+TG9_prok_03705			
+TG9_prok_03706	H		
+TG9_prok_03707	S		
+TG9_prok_03708	K		
+TG9_prok_03709	S		
+TG9_prok_03710			
+TG9_prok_03711	L		
+TG9_prok_03712	S		
+TG9_prok_03713	D		
+TG9_prok_03714	K		
+TG9_prok_03715			
+TG9_prok_03716	I		
+TG9_prok_03717	K		
+TG9_prok_03718	T		
+TG9_prok_03719	I		
+TG9_prok_03720	S		
+TG9_prok_03721	K		
+TG9_prok_03722	S		
+TG9_prok_03723	S		
+TG9_prok_03724	E		
+TG9_prok_03725	S		
+TG9_prok_03726	I		
+TG9_prok_03727	I		
+TG9_prok_03728	C		
+TG9_prok_03729			
+TG9_prok_03730	S		
+TG9_prok_03731	S		
+TG9_prok_03732			
+TG9_prok_03733	U		
+TG9_prok_03734	J		
+TG9_prok_03735	S		
+TG9_prok_03736	S		
+TG9_prok_03737	T		
+TG9_prok_03738	L		
+TG9_prok_03739	T		
+TG9_prok_03740	T		
+TG9_prok_03741	F		
+TG9_prok_03742	H		
+TG9_prok_03743	K		
+TG9_prok_03744	C		
+TG9_prok_03745	C		
+TG9_prok_03746	I		
+TG9_prok_03747	G		
+TG9_prok_03748			
+TG9_prok_03749	G		
+TG9_prok_03750	S		
+TG9_prok_03751	S		
+TG9_prok_03752	K		
+TG9_prok_03753	S		
+TG9_prok_03754	C		
+TG9_prok_03755	S		
+TG9_prok_03756	E		
+TG9_prok_03757	M		
+TG9_prok_03758	M		
+TG9_prok_03759	M		
+TG9_prok_03760	K		
+TG9_prok_03761			
+TG9_prok_03762			
+TG9_prok_03763	V		
+TG9_prok_03764	V		
+TG9_prok_03765	T		
+TG9_prok_03766	T		
+TG9_prok_03767	F		
+TG9_prok_03768	F		
+TG9_prok_03769	S		
+TG9_prok_03770	T		
+TG9_prok_03771	T		
+TG9_prok_03772	S		
+TG9_prok_03773	H		
+TG9_prok_03774	I		
+TG9_prok_03776	D		
+TG9_prok_03777			
+TG9_prok_03778	P		
+TG9_prok_03779	S		
+TG9_prok_03780	Q		
+TG9_prok_03781	I		
+TG9_prok_03782	S		
+TG9_prok_03783	S		
+TG9_prok_03784	S		
+TG9_prok_03785			
+TG9_prok_03789	T		
+TG9_prok_03790	H		
+TG9_prok_03791	K		
+TG9_prok_03792	C		
+TG9_prok_03793	S		
+TG9_prok_03794	C		
+TG9_prok_03796	L		
+TG9_prok_03797	L		
+TG9_prok_03798	K		
+TG9_prok_03799	S		
+TG9_prok_03800	C		
+TG9_prok_03801	C		
+TG9_prok_03802	C		
+TG9_prok_03803	S		
+TG9_prok_03804	P		
+TG9_prok_03805	P		
+TG9_prok_03806	P		
+TG9_prok_03807	E		
+TG9_prok_03808	E		
+TG9_prok_03809	S		
+TG9_prok_03810	F		
+TG9_prok_03811	G		
+TG9_prok_03812	S		
+TG9_prok_03813	F		
+TG9_prok_03815	M		
+TG9_prok_03816			
+TG9_prok_03817	S		
+TG9_prok_03818			
+TG9_prok_03819	F		
+TG9_prok_03820	F		
+TG9_prok_03821	F		
+TG9_prok_03822	C		
+TG9_prok_03823	C		
+TG9_prok_03824	C		
+TG9_prok_03825	C		
+TG9_prok_03826	S		
+TG9_prok_03827	S		
+TG9_prok_03828	J		
+TG9_prok_03829	L		
+TG9_prok_03831	C		
+TG9_prok_03832	E		
+TG9_prok_03833	S		
+TG9_prok_03834	H		
+TG9_prok_03835	S		
+TG9_prok_03836	M		
+TG9_prok_03837	S		
+TG9_prok_03838	J		
+TG9_prok_03839	Q		
+TG9_prok_03840	U		
+TG9_prok_03841	U		
+TG9_prok_03842	U		
+TG9_prok_03843	P		
+TG9_prok_03844	S		
+TG9_prok_03845	L		
+TG9_prok_03846			
+TG9_prok_03847	K		
+TG9_prok_03848	C		
+TG9_prok_03849	S		
+TG9_prok_03850	K		
+TG9_prok_03851	Q		
+TG9_prok_03852	H		
+TG9_prok_03853	O		
+TG9_prok_03854			
+TG9_prok_03855	C		
+TG9_prok_03856	L		
+TG9_prok_03857	S		
+TG9_prok_03858	L		
+TG9_prok_03859	S		
+TG9_prok_03860	T		
+TG9_prok_03861	T		
+TG9_prok_03862	T		
+TG9_prok_03863	S		
+TG9_prok_03865	F		
+TG9_prok_03866	E		
+TG9_prok_03867	F		
+TG9_prok_03868	F		
+TG9_prok_03869			
+TG9_prok_03870	T		
+TG9_prok_03871	K		
+TG9_prok_03872			
+TG9_prok_03873	K		
+TG9_prok_03874	O		
+TG9_prok_03875	O		
+TG9_prok_03876			
+TG9_prok_03877	O		
+TG9_prok_03878	S		
+TG9_prok_03879	O		
+TG9_prok_03880	S		
+TG9_prok_03881	S		
+TG9_prok_03882	M		
+TG9_prok_03883	G		
+TG9_prok_03884	M		
+TG9_prok_03885			
+TG9_prok_03888	G		
+TG9_prok_03889	J		
+TG9_prok_03890	J		
+TG9_prok_03891	S		
+TG9_prok_03892	S		
+TG9_prok_03893	S		
+TG9_prok_03894	D		
+TG9_prok_03895	S		
+TG9_prok_03896	O		
+TG9_prok_03897	S		
+TG9_prok_03898	S		
+TG9_prok_03899	S		
+TG9_prok_03900	K		
+TG9_prok_03901	I		
+TG9_prok_03902	S		
+TG9_prok_03903	S		
+TG9_prok_03904	J		
+TG9_prok_03905	J		
+TG9_prok_03906	K		
+TG9_prok_03907	J		
+TG9_prok_03908	J		
+TG9_prok_03909	J		
+TG9_prok_03910	J		
+TG9_prok_03911	J		
+TG9_prok_03912	J		
+TG9_prok_03913	J		
+TG9_prok_03914	F		
+TG9_prok_03915	U		
+TG9_prok_03916	J		
+TG9_prok_03917	J		
+TG9_prok_03918	J		
+TG9_prok_03919	J		
+TG9_prok_03920	J		
+TG9_prok_03921	J		
+TG9_prok_03922	J		
+TG9_prok_03923	J		
+TG9_prok_03924	J		
+TG9_prok_03925	J		
+TG9_prok_03926	J		
+TG9_prok_03927	J		
+TG9_prok_03928	J		
+TG9_prok_03929	J		
+TG9_prok_03930	J		
+TG9_prok_03931	J		
+TG9_prok_03932	J		
+TG9_prok_03933	J		
+TG9_prok_03934	J		
+TG9_prok_03935	J		
+TG9_prok_03936	J		
+TG9_prok_03937	H		
+TG9_prok_03938	V		
+TG9_prok_03939	V		
+TG9_prok_03940	V		
+TG9_prok_03941	S		
+TG9_prok_03942	L		
+TG9_prok_03943	L		
+TG9_prok_03944	S		
+TG9_prok_03945	Q		
+TG9_prok_03946	Q		
+TG9_prok_03947	Q		
+TG9_prok_03948	E		
+TG9_prok_03949	Q		
+TG9_prok_03950	Q		
+TG9_prok_03951	Q		
+TG9_prok_03952	Q		
+TG9_prok_03953			
+TG9_prok_03954	Q		
+TG9_prok_03955	S		
+TG9_prok_03956	Q		
+TG9_prok_03957	G		
+TG9_prok_03958			
+TG9_prok_03959	S		
+TG9_prok_03960	C		
+TG9_prok_03961	K		
+TG9_prok_03962	E		
+TG9_prok_03963	M		
+TG9_prok_03964	S		
+TG9_prok_03965	S		
+TG9_prok_03966	C		
+TG9_prok_03967	I	 Q	
+TG9_prok_03968	C		
+TG9_prok_03969	C		
+TG9_prok_03970	S		
+TG9_prok_03971			
+TG9_prok_03973	K		
+TG9_prok_03974	S		
+TG9_prok_03976	T		
+TG9_prok_03977	T		
+TG9_prok_03978	C		
+TG9_prok_03979	E		
+TG9_prok_03980	H		
+TG9_prok_03981	S		
+TG9_prok_03982	S		
+TG9_prok_03983	C		
+TG9_prok_03984	C		
+TG9_prok_03985	G		
+TG9_prok_03986	M		
+TG9_prok_03987	C		
+TG9_prok_03988	S		
+TG9_prok_03989			
+TG9_prok_03990			
+TG9_prok_03991			
+TG9_prok_03992			
+TG9_prok_03993			
+TG9_prok_03994	K		
+TG9_prok_03995	V		
+TG9_prok_03996	J		
+TG9_prok_03997	J		
+TG9_prok_03998	J		
+TG9_prok_03999	J		
+TG9_prok_04000	S		
+TG9_prok_04001	S		
+TG9_prok_04002	K		
+TG9_prok_04003	K		
+TG9_prok_04004	I		
+TG9_prok_04005	I		
+TG9_prok_04006	S		
+TG9_prok_04007	S		
+TG9_prok_04008	K		
+TG9_prok_04009	S		
+TG9_prok_04011	S		
+TG9_prok_04012	P		
+TG9_prok_04013	C		
+TG9_prok_04014	I		
+TG9_prok_04015	T		
+TG9_prok_04016	K		
+TG9_prok_04017	K		
+TG9_prok_04018			
+TG9_prok_04019	S		
+TG9_prok_04020	S		
+TG9_prok_04021	S		
+TG9_prok_04022	S		
+TG9_prok_04023	S		
+TG9_prok_04024	S		
+TG9_prok_04025	S		
+TG9_prok_04026	Q		
+TG9_prok_04027	Q		
+TG9_prok_04028	Q		
+TG9_prok_04029	J		
+TG9_prok_04030	J		
+TG9_prok_04031	J		
+TG9_prok_04032	J		
+TG9_prok_04033	K		
+TG9_prok_04034	U		
+TG9_prok_04036	I		
+TG9_prok_04037	S		
+TG9_prok_04038	J		
+TG9_prok_04042	S		
+TG9_prok_04043	O		
+TG9_prok_04044	H		
+TG9_prok_04045	C		
+TG9_prok_04046	H		
+TG9_prok_04047	M		
+TG9_prok_04048	S		
+TG9_prok_04049	H		
+TG9_prok_04050	S		
+TG9_prok_04051	P		
+TG9_prok_04052			
+TG9_prok_04053	H		
+TG9_prok_04054	S		
+TG9_prok_04055	H		
+TG9_prok_04056			
+TG9_prok_04057			
+TG9_prok_04058	E		
+TG9_prok_04059	P		
+TG9_prok_04060			
+TG9_prok_04061	S		
+TG9_prok_04062	H		
+TG9_prok_04063	H		
+TG9_prok_04064	S		
+TG9_prok_04065	S		
+TG9_prok_04066	O		
+TG9_prok_04067			
+TG9_prok_04068	E		
+TG9_prok_04069			
+TG9_prok_04070	L		
+TG9_prok_04071			
+TG9_prok_04072	D		
+TG9_prok_04073	O		
+TG9_prok_04074	O		
+TG9_prok_04075	O		
+TG9_prok_04076	O		
+TG9_prok_04077	G		
+TG9_prok_04078	H		
+TG9_prok_04079	I		
+TG9_prok_04080	S		
+TG9_prok_04082			
+TG9_prok_04083	H		
+TG9_prok_04084	H		
+TG9_prok_04085	H		
+TG9_prok_04086	H		
+TG9_prok_04087	K		
+TG9_prok_04088	C	 O	
+TG9_prok_04089	E		
+TG9_prok_04090	I		
+TG9_prok_04091	M		
+TG9_prok_04092	S		
+TG9_prok_04093	S		
+TG9_prok_04094	E		
+TG9_prok_04095	S		
+TG9_prok_04096	K		
+TG9_prok_04097			
+TG9_prok_04098	G		
+TG9_prok_04099	S		
+TG9_prok_04100	F		
+TG9_prok_04101			
+TG9_prok_04102	T		
+TG9_prok_04103	T		
+TG9_prok_04104	G		
+TG9_prok_04105	H		
+TG9_prok_04106	I		
+TG9_prok_04107	S		
+TG9_prok_04108	S		
+TG9_prok_04109	H		
+TG9_prok_04110	S		
+TG9_prok_04111	G		
+TG9_prok_04112			
+TG9_prok_04113	K		
+TG9_prok_04114	K		
+TG9_prok_04115	L		
+TG9_prok_04116	M		
+TG9_prok_04117	S		
+TG9_prok_04118	S		
+TG9_prok_04119			
+TG9_prok_04120			
+TG9_prok_04121			
+TG9_prok_04122	F		
+TG9_prok_04123	S		
+TG9_prok_04124	S		
+TG9_prok_04125	F		
+TG9_prok_04126	S		
+TG9_prok_04127	S		
+TG9_prok_04128	S		
+TG9_prok_04129	S		
+TG9_prok_04130	K		
+TG9_prok_04131	S		
+TG9_prok_04132	K		
+TG9_prok_04133	S		
+TG9_prok_04134	S		
+TG9_prok_04135			
+TG9_prok_04136	H		
+TG9_prok_04137	K		
+TG9_prok_04138	S		
+TG9_prok_04139			
+TG9_prok_04140			
+TG9_prok_04141	S		
+TG9_prok_04142	P		
+TG9_prok_04143			
+TG9_prok_04144	S		
+TG9_prok_04145	J		
+TG9_prok_04146	Q		
+TG9_prok_04147	S		
+TG9_prok_04148	G		
+TG9_prok_04149	F		
+TG9_prok_04150	I		
+TG9_prok_04151	E		
+TG9_prok_04152	S		
+TG9_prok_04154	G		
+TG9_prok_04155			
+TG9_prok_04156			
+TG9_prok_04157	M		
+TG9_prok_04158	S		
+TG9_prok_04160	T		
+TG9_prok_04161	K		
+TG9_prok_04162	C		
+TG9_prok_04163	E		
+TG9_prok_04164	I		
+TG9_prok_04165	C		
+TG9_prok_04166	C		
+TG9_prok_04167	K		
+TG9_prok_04168	S		
+TG9_prok_04169			
+TG9_prok_04170	E		
+TG9_prok_04171	E		
+TG9_prok_04172	E		
+TG9_prok_04173	E		
+TG9_prok_04174	E		
+TG9_prok_04175	K		
+TG9_prok_04176	S		
+TG9_prok_04177	E		
+TG9_prok_04178	I		
+TG9_prok_04179	C		
+TG9_prok_04180	S		
+TG9_prok_04181	Q		
+TG9_prok_04182			
+TG9_prok_04183	C		
+TG9_prok_04184	V		
+TG9_prok_04185	V		
+TG9_prok_04186	K		
+TG9_prok_04187	S		
+TG9_prok_04188	T		
+TG9_prok_04189	T		
+TG9_prok_04190	V		
+TG9_prok_04191	V		
+TG9_prok_04193	S		
+TG9_prok_04194			
+TG9_prok_04195	E		
+TG9_prok_04196	K		
+TG9_prok_04197	G		
+TG9_prok_04198	E		
+TG9_prok_04199	E		
+TG9_prok_04200	H		
+TG9_prok_04201	S		
+TG9_prok_04203	C		
+TG9_prok_04204	S		
+TG9_prok_04206	S		
+TG9_prok_04207	O		
+TG9_prok_04209	G		
+TG9_prok_04210	O		
+TG9_prok_04211	C		
+TG9_prok_04212	K		
+TG9_prok_04213	S		
+TG9_prok_04215	L		
+TG9_prok_04216	S		
+TG9_prok_04217	I		
+TG9_prok_04218	I		
+TG9_prok_04219	O		
+TG9_prok_04220	P		
+TG9_prok_04221	P		
+TG9_prok_04222	P		
+TG9_prok_04223	P		
+TG9_prok_04224	P		
+TG9_prok_04225	P		
+TG9_prok_04226	P		
+TG9_prok_04227	S		
+TG9_prok_04228	P		
+TG9_prok_04230	S		
+TG9_prok_04231	J		
+TG9_prok_04232	K		
+TG9_prok_04233	L		
+TG9_prok_04234			
+TG9_prok_04235	H		
+TG9_prok_04236	S		
+TG9_prok_04237	S		
+TG9_prok_04238	P		
+TG9_prok_04240	H		
+TG9_prok_04241	H		
+TG9_prok_04242	E		
+TG9_prok_04243	H		
+TG9_prok_04244	L		
+TG9_prok_04245	S		
+TG9_prok_04246	E	 T	
+TG9_prok_04247	T		
+TG9_prok_04248	C		
+TG9_prok_04249	C		
+TG9_prok_04250	C		
+TG9_prok_04251	C		
+TG9_prok_04252			
+TG9_prok_04253	C		
+TG9_prok_04254	S		
+TG9_prok_04255	H		
+TG9_prok_04256	P		
+TG9_prok_04257	P		
+TG9_prok_04258	P		
+TG9_prok_04259	E		
+TG9_prok_04260	P		
+TG9_prok_04261			
+TG9_prok_04262	C		
+TG9_prok_04263	S		
+TG9_prok_04264	F		
+TG9_prok_04265	S		
+TG9_prok_04266	S		
+TG9_prok_04267			
+TG9_prok_04268	E		
+TG9_prok_04269	K		
+TG9_prok_04270	P		
+TG9_prok_04271	F		
+TG9_prok_04272			
+TG9_prok_04273	T		
+TG9_prok_04274			
+TG9_prok_04275	M		
+TG9_prok_04276			
+TG9_prok_04277	M		
+TG9_prok_04279	P		
+TG9_prok_04280	S		
+TG9_prok_04281	C		
+TG9_prok_04282	P		
+TG9_prok_04283	P		
+TG9_prok_04284	P		
+TG9_prok_04285	P		
+TG9_prok_04286			
+TG9_prok_04287	S		
+TG9_prok_04288	E		
+TG9_prok_04289	E		
+TG9_prok_04290	G		
+TG9_prok_04291	S		
+TG9_prok_04292			
+TG9_prok_04293	S		
+TG9_prok_04295	S		
+TG9_prok_04296	H		
+TG9_prok_04297	H		
+TG9_prok_04298	H		
+TG9_prok_04299	H		
+TG9_prok_04300	H		
+TG9_prok_04301	H		
+TG9_prok_04302	H		
+TG9_prok_04303	H		
+TG9_prok_04304	H		
+TG9_prok_04305	H		
+TG9_prok_04306	H		
+TG9_prok_04307	S		
+TG9_prok_04308			
+TG9_prok_04309			
+TG9_prok_04310	H		
+TG9_prok_04311	H		
+TG9_prok_04312	S		
+TG9_prok_04313			
+TG9_prok_04314	G		
+TG9_prok_04315	P		
+TG9_prok_04316	S		
+TG9_prok_04317	S		
+TG9_prok_04318			
+TG9_prok_04319	G		
+TG9_prok_04320	S		
+TG9_prok_04321	S		
+TG9_prok_04322	G		
+TG9_prok_04323	J		
+TG9_prok_04325	S		
+TG9_prok_04326			
+TG9_prok_04327	S		
+TG9_prok_04328	G		
+TG9_prok_04329	G		
+TG9_prok_04330	F		
+TG9_prok_04331	S		
+TG9_prok_04332	S		
+TG9_prok_04333	S		
+TG9_prok_04334	C		
+TG9_prok_04335	O		
+TG9_prok_04336	C		
+TG9_prok_04337	S		
+TG9_prok_04341			
+TG9_prok_04343			
+TG9_prok_04344	Q		
+TG9_prok_04345	C		
+TG9_prok_04347	C		
+TG9_prok_04348	I		
+TG9_prok_04349	C		
+TG9_prok_04350	Q		
+TG9_prok_04351	S		
+TG9_prok_04352	C		
+TG9_prok_04353			
+TG9_prok_04354	C		
+TG9_prok_04355	K		
+TG9_prok_04356	O		
+TG9_prok_04357	O		
+TG9_prok_04358	O		
+TG9_prok_04359			
+TG9_prok_04360	K		
+TG9_prok_04361	S		
+TG9_prok_04362	S		
+TG9_prok_04363			
+TG9_prok_04364	O		
+TG9_prok_04365	K		
+TG9_prok_04366	V	 W	
+TG9_prok_04367	S		
+TG9_prok_04368	O		
+TG9_prok_04369			
+TG9_prok_04370	C		
+TG9_prok_04371			
+TG9_prok_04372	S		
+TG9_prok_04373	I		
+TG9_prok_04374	K		
+TG9_prok_04375	E		
+TG9_prok_04376	S		
+TG9_prok_04377	K		
+TG9_prok_04378	T		
+TG9_prok_04379	M		
+TG9_prok_04380	Q		
+TG9_prok_04381			
+TG9_prok_04382	M		
+TG9_prok_04383	S		
+TG9_prok_04384	M		
+TG9_prok_04385	M		
+TG9_prok_04387	S		
+TG9_prok_04388	M		
+TG9_prok_04389	M		
+TG9_prok_04390	M		
+TG9_prok_04391	M		
+TG9_prok_04392			
+TG9_prok_04393	H		
+TG9_prok_04394			
+TG9_prok_04395	L		
+TG9_prok_04396	L		
+TG9_prok_04397	L		
+TG9_prok_04398	L		
+TG9_prok_04399	S		
+TG9_prok_04400	S		
+TG9_prok_04401	M		
+TG9_prok_04402	P		
+TG9_prok_04403	S		
+TG9_prok_04404	T		
+TG9_prok_04405	T		
+TG9_prok_04406	S		
+TG9_prok_04407	S		
+TG9_prok_04408	M		
+TG9_prok_04409	K		
+TG9_prok_04410	Q		
+TG9_prok_04411	G		
+TG9_prok_04412	Q		
+TG9_prok_04413	C		
+TG9_prok_04414	C	 H	
+TG9_prok_04415	K		
+TG9_prok_04416			
+TG9_prok_04417	C		
+TG9_prok_04418	Q		
+TG9_prok_04419	K		
+TG9_prok_04420	K		
+TG9_prok_04421	S		
+TG9_prok_04422	K		
+TG9_prok_04423	P		
+TG9_prok_04424			
+TG9_prok_04425	T		
+TG9_prok_04426	T		
+TG9_prok_04427	S		
+TG9_prok_04428			
+TG9_prok_04429	M		
+TG9_prok_04430	I		
+TG9_prok_04432	S		
+TG9_prok_04433			
+TG9_prok_04434	K		
+TG9_prok_04435	E		
+TG9_prok_04436	S		
+TG9_prok_04437			
+TG9_prok_04438	E		
+TG9_prok_04439	K		
+TG9_prok_04440	I		
+TG9_prok_04441	C		
+TG9_prok_04442	T		
+TG9_prok_04443	S		
+TG9_prok_04444	C		
+TG9_prok_04445			
+TG9_prok_04448	S		
+TG9_prok_04449	S		
+TG9_prok_04450			
+TG9_prok_04451	P		
+TG9_prok_04452	P		
+TG9_prok_04453	S		
+TG9_prok_04454	S		
+TG9_prok_04455			
+TG9_prok_04456	M		
+TG9_prok_04457	M		
+TG9_prok_04458			
+TG9_prok_04459	M		
+TG9_prok_04460	M		
+TG9_prok_04461	M		
+TG9_prok_04462	G		
+TG9_prok_04463	M		
+TG9_prok_04464	G		
+TG9_prok_04465	E		
+TG9_prok_04466	P		
+TG9_prok_04470	O		
+TG9_prok_04472	M		
+TG9_prok_04473			
+TG9_prok_04474	S		
+TG9_prok_04475	M		
+TG9_prok_04476	S		
+TG9_prok_04477			
+TG9_prok_04478	F		
+TG9_prok_04479	K		
+TG9_prok_04481			
+TG9_prok_04482	L		
+TG9_prok_04483	L		
+TG9_prok_04486	S		
+TG9_prok_04489			
+TG9_prok_04491			
+TG9_prok_04492			
+TG9_prok_04493	O		
+TG9_prok_04494	O		
+TG9_prok_04495	S		
+TG9_prok_04496			
+TG9_prok_04497	E		
+TG9_prok_04499	S		
+TG9_prok_04500	C		
+TG9_prok_04502			
+TG9_prok_04504	P		
+TG9_prok_04505	E		
+TG9_prok_04506	S		
+TG9_prok_04507	S		
+TG9_prok_04508	S		
+TG9_prok_04509	Q		
+TG9_prok_04510	I		
+TG9_prok_04511	S		
+TG9_prok_04512	I		
+TG9_prok_04513	O		
+TG9_prok_04514	I		
+TG9_prok_04515	V		
+TG9_prok_04516	I		
+TG9_prok_04517	I		
+TG9_prok_04518	I		
+TG9_prok_04519	K		
+TG9_prok_04520	G		
+TG9_prok_04521	T		
+TG9_prok_04522	H		
+TG9_prok_04524	S		
+TG9_prok_04525	I		
+TG9_prok_04526	S		
+TG9_prok_04527	M		
+TG9_prok_04528	S		
+TG9_prok_04529	M		
+TG9_prok_04530	S		
+TG9_prok_04531	G		
+TG9_prok_04532	S		
+TG9_prok_04533			
+TG9_prok_04534	F	 J	
+TG9_prok_04535	C		
+TG9_prok_04536	E		
+TG9_prok_04537	E		
+TG9_prok_04538			
+TG9_prok_04539	C		
+TG9_prok_04540	S		
+TG9_prok_04541	S		
+TG9_prok_04542	C		
+TG9_prok_04543			
+TG9_prok_04544			
+TG9_prok_04546	S		
+TG9_prok_04547	S		
+TG9_prok_04548	H		
+TG9_prok_04549	S		
+TG9_prok_04550	T		
+TG9_prok_04551	T		
+TG9_prok_04552	T		
+TG9_prok_04553	S		
+TG9_prok_04554	S		
+TG9_prok_04555	S		
+TG9_prok_04556	E		
+TG9_prok_04557	S		
+TG9_prok_04558	M		
+TG9_prok_04559	M		
+TG9_prok_04560	S		
+TG9_prok_04561	S		
+TG9_prok_04562	K		
+TG9_prok_04563	I		
+TG9_prok_04564	P		
+TG9_prok_04565	K		
+TG9_prok_04566			
+TG9_prok_04567	C		
+TG9_prok_04568	P		
+TG9_prok_04569	P		
+TG9_prok_04570	P		
+TG9_prok_04571	S		
+TG9_prok_04572	S		
+TG9_prok_04573	K		
+TG9_prok_04574	Q		
+TG9_prok_04575	E		
+TG9_prok_04576	S		
+TG9_prok_04577	I		
+TG9_prok_04578	G		
+TG9_prok_04579	I		
+TG9_prok_04580	K		
+TG9_prok_04581	I		
+TG9_prok_04582	G		
+TG9_prok_04583	I		
+TG9_prok_04584			
+TG9_prok_04585	C		
+TG9_prok_04586	C		
+TG9_prok_04587	Q		
+TG9_prok_04588	S		
+TG9_prok_04589	K		
+TG9_prok_04590	C		
+TG9_prok_04591	G		
+TG9_prok_04592	I		
+TG9_prok_04593	I		
+TG9_prok_04594	T		
+TG9_prok_04595	T		
+TG9_prok_04597	Q		
+TG9_prok_04598	I		
+TG9_prok_04599	I		
+TG9_prok_04600	K		
+TG9_prok_04601	I		
+TG9_prok_04602	I		
+TG9_prok_04603	I		
+TG9_prok_04604	S		
+TG9_prok_04605	K		
+TG9_prok_04606	S		
+TG9_prok_04607	S		
+TG9_prok_04608	T		
+TG9_prok_04609	T		
+TG9_prok_04610	S		
+TG9_prok_04611	S		
+TG9_prok_04612	V		
+TG9_prok_04613	O		
+TG9_prok_04614	M		
+TG9_prok_04615	Q		
+TG9_prok_04616	Q		
+TG9_prok_04617	C		
+TG9_prok_04618	K		
+TG9_prok_04619			
+TG9_prok_04620	E	 G	
+TG9_prok_04621	K		
+TG9_prok_04622	K		
+TG9_prok_04623	G		
+TG9_prok_04624	C		
+TG9_prok_04625	C		
+TG9_prok_04626	K		
+TG9_prok_04627	K		
+TG9_prok_04628	S		
+TG9_prok_04629	G		
+TG9_prok_04630	G		
+TG9_prok_04631	P		
+TG9_prok_04632	P		
+TG9_prok_04633	S		
+TG9_prok_04634	S		
+TG9_prok_04635	S		
+TG9_prok_04636	Q		
+TG9_prok_04637	C		
+TG9_prok_04639			
+TG9_prok_04640	C		
+TG9_prok_04641	S		
+TG9_prok_04642	V		
+TG9_prok_04644	L		
+TG9_prok_04645	L		
+TG9_prok_04646			
+TG9_prok_04647	L		
+TG9_prok_04648	K		
+TG9_prok_04649	Q		
+TG9_prok_04650	K		
+TG9_prok_04651	I		
+TG9_prok_04652	I		
+TG9_prok_04654	S		
+TG9_prok_04658	S		
+TG9_prok_04659	G		
+TG9_prok_04660	C		
+TG9_prok_04661	S		
+TG9_prok_04662	E		
+TG9_prok_04663			
+TG9_prok_04664			
+TG9_prok_04665	T		
+TG9_prok_04666	P		
+TG9_prok_04667	S		
+TG9_prok_04668	K		
+TG9_prok_04669	E		
+TG9_prok_04670			
+TG9_prok_04671	E		
+TG9_prok_04672	E		
+TG9_prok_04673	E		
+TG9_prok_04674			
+TG9_prok_04676	Q		
+TG9_prok_04677	S		
+TG9_prok_04678	P		
+TG9_prok_04679	P		
+TG9_prok_04680	L		
+TG9_prok_04681	L		
+TG9_prok_04682	L		
+TG9_prok_04683	P		
+TG9_prok_04684	P		
+TG9_prok_04685	P		
+TG9_prok_04686	L		
+TG9_prok_04687	L		
+TG9_prok_04688	K		
+TG9_prok_04689	I		
+TG9_prok_04690	Q		
+TG9_prok_04691	S		
+TG9_prok_04692	I		
+TG9_prok_04693	I		
+TG9_prok_04694	I		
+TG9_prok_04695	G	 M	
+TG9_prok_04696	E		
+TG9_prok_04697	E		
+TG9_prok_04698	S		
+TG9_prok_04699	C		
+TG9_prok_04700	C		
+TG9_prok_04701	C		
+TG9_prok_04702	F		
+TG9_prok_04703	K		
+TG9_prok_04704	O		
+TG9_prok_04705	Q		
+TG9_prok_04706	G		
+TG9_prok_04707	S		
+TG9_prok_04708	C		
+TG9_prok_04709	L		
+TG9_prok_04710	L		
+TG9_prok_04712	Q		
+TG9_prok_04713	C		
+TG9_prok_04714	L		
+TG9_prok_04716	Q		
+TG9_prok_04717	Q		
+TG9_prok_04718	Q		
+TG9_prok_04719	C		
+TG9_prok_04720	S		
+TG9_prok_04721	S		
+TG9_prok_04722	S		
+TG9_prok_04724	L		
+TG9_prok_04725	L		
+TG9_prok_04726	L		
+TG9_prok_04727	L		
