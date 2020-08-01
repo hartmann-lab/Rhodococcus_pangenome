@@ -1,0 +1,76 @@
+	fxns_by_genome	category	TG9	Cluster_3B	genomes_other	Cluster_3B_other	genomes_other_percent	Cluster_3B_other_percent	genomes_total_percent
+12-dehydrotetracycline 5-monooxygenase/anhydrotetracycline 6-monooxygenase	1	Cloud	0	0	1	0	0.775193798449612	0	0.694444444444444
+Bifunctional polymyxin resistance protein ArnA	1	Cloud	0	0	1	0	0.775193798449612	0	0.694444444444444
+Multidrug resistance protein MdtK	1	Cloud	0	0	1	0	0.775193798449612	0	0.694444444444444
+Multidrug resistance protein Mmr	1	Cloud	0	0	1	0	0.775193798449612	0	0.694444444444444
+Putative 2-heptyl-3-hydroxy-4(1H)-quinolone synthase AqdB1	1	Cloud	0	0	1	0	0.775193798449612	0	0.694444444444444
+putative 2-heptyl-3-hydroxy-4(1H)-quinolone synthase AqdB2	1	Cloud	0	1	0	1	0	7.14285714285714	0.694444444444444
+Penicillin-binding protein 1F	2	Cloud	0	0	2	0	1.55038759689922	0	1.38888888888889
+Vancomycin aglycone glucosyltransferase	2	Cloud	0	0	2	0	1.55038759689922	0	1.38888888888889
+Beta-lactamase 1	3	Cloud	0	0	3	0	2.32558139534884	0	2.08333333333333
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI	4	Cloud	0	1	3	1	2.32558139534884	7.14285714285714	2.77777777777778
+Aclacinomycin-N/aclacinomycin-A oxidase	5	Cloud	0	0	5	0	3.87596899224806	0	3.47222222222222
+Quinolone resistance transporter	5	Cloud	0	0	5	0	3.87596899224806	0	3.47222222222222
+Putative phosphinothricin acetyltransferase YwnH	6	Cloud	1	6	0	5	0	35.7142857142857	4.16666666666667
+8-demethyl-8-(2,3-dimethoxy-alpha-L-rhamnosyl)-tetracenomycin-C 4'-O-methyltransferase	7	Cloud	0	0	7	0	5.42635658914729	0	4.86111111111111
+Erythromycin C-12 hydroxylase	8	Cloud	0	0	8	0	6.2015503875969	0	5.55555555555556
+Tetracycline 7-halogenase	10	Cloud	0	0	10	0	7.75193798449612	0	6.94444444444444
+Bleomycin resistance protein	14	Cloud	0	0	14	0	10.8527131782946	0	9.72222222222222
+Cadmium resistance transcriptional regulatory protein CadC	14	Cloud	0	0	14	0	10.8527131782946	0	9.72222222222222
+Macrolide export ATP-binding/permease protein MacB	14	Cloud	0	0	14	0	10.8527131782946	0	9.72222222222222
+6'''-hydroxyparomomycin C oxidase	15	Cloud	0	0	15	0	11.6279069767442	0	10.4166666666667
+Arsenic resistance transcriptional regulator ArsR1	15	Cloud	1	9	6	8	4.65116279069767	57.1428571428571	10.4166666666667
+SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD	15	Cloud	0	0	15	0	11.6279069767442	0	10.4166666666667
+Aminoglycoside N(6')-acetyltransferase type 1	16	Cloud	0	0	16	0	12.4031007751938	0	11.1111111111111
+Tetracycline repressor protein class A from transposon 1721	16	Cloud	0	0	16	0	12.4031007751938	0	11.1111111111111
+Aminoglycoside 3'-phosphotransferase	20	Cloud	0	0	20	0	15.5038759689922	0	13.8888888888889
+rifamycin-inactivating phosphotransferase RphC	20	Cloud	1	15	5	14	3.87596899224806	100	13.8888888888889
+Mercuric resistance operon regulatory protein	24	Shell	0	0	24	0	18.6046511627907	0	16.6666666666667
+Pristinamycin IIA synthase subunit A	29	Shell	0	2	27	2	20.9302325581395	14.2857142857143	20.1388888888889
+5a,11a-dehydrotetracycline/5a,11a-dehydrooxytetracycline reductase	32	Shell	0	0	32	0	24.8062015503876	0	22.2222222222222
+Penicillin acylase	37	Shell	1	9	28	8	21.7054263565891	57.1428571428571	25.6944444444444
+Tetracycline repressor protein class H	38	Shell	0	3	35	3	27.1317829457364	21.4285714285714	26.3888888888889
+Multidrug resistance protein MdtG	39	Shell	0	7	32	7	24.8062015503876	50	27.0833333333333
+Tunicamycin resistance protein	40	Shell	0	0	40	0	31.0077519379845	0	27.7777777777778
+Arsenical resistance operon trans-acting repressor ArsD	44	Shell	0	9	35	9	27.1317829457364	64.2857142857143	30.5555555555556
+Beta-lactamase	45	Shell	1	13	32	12	24.8062015503876	85.7142857142857	31.25
+rifampin monooxygenase Iri	45	Shell	0	0	45	0	34.8837209302326	0	31.25
+Fosmidomycin resistance protein	46	Shell	0	0	46	0	35.6589147286822	0	31.9444444444444
+Quinolone resistance protein NorB	46	Shell	0	0	46	0	35.6589147286822	0	31.9444444444444
+Penicillin-binding protein 4	47	Shell	0	0	47	0	36.4341085271318	0	32.6388888888889
+Streptogramin A acetyltransferase	49	Shell	0	0	49	0	37.984496124031	0	34.0277777777778
+Virginiamycin B lyase	50	Shell	1	9	41	8	31.7829457364341	57.1428571428571	34.7222222222222
+Tetracycline repressor protein class B from transposon Tn10	56	Shell	0	0	56	0	43.4108527131783	0	38.8888888888889
+Multidrug resistance ABC transporter ATP-binding/permease protein BmrA	58	Shell	0	1	57	1	44.1860465116279	7.14285714285714	40.2777777777778
+putative multidrug resistance protein EmrY	58	Shell	1	15	43	14	33.3333333333333	100	40.2777777777778
+Mitomycin radical oxidase	63	Shell	1	10	53	9	41.0852713178295	64.2857142857143	43.75
+Multidrug resistance protein MdtL	66	Shell	0	0	66	0	51.1627906976744	0	45.8333333333333
+Multidrug resistance protein EbrB	70	Shell	0	0	70	0	54.2635658914729	0	48.6111111111111
+Phenazine antibiotic resistance protein EhpR	70	Shell	1	13	57	12	44.1860465116279	85.7142857142857	48.6111111111111
+Aclacinomycin methylesterase RdmC	76	Shell	1	14	62	13	48.062015503876	92.8571428571429	52.7777777777778
+Oleandomycin glycosyltransferase	76	Shell	0	0	76	0	58.9147286821705	0	52.7777777777778
+Multidrug resistance protein MdtH	99	Shell	1	4	95	3	73.6434108527132	21.4285714285714	68.75
+Beta-lactamase regulatory protein BlaB	100	Shell	1	12	88	11	68.2170542635659	78.5714285714286	69.4444444444444
+Putative aminoglycoside phosphotransferase	107	Shell	0	5	102	5	79.0697674418605	35.7142857142857	74.3055555555556
+Validamycin A dioxygenase	139	Core	1	15	124	14	96.1240310077519	100	96.5277777777778
+Arsenical-resistance protein Acr3	143	Core	1	15	128	14	99.2248062015504	100	99.3055555555556
+4'-demethylrebeccamycin synthase	144	Core	1	15	129	14	100	100	100
+Antiseptic resistance protein	144	Core	1	15	129	14	100	100	100
+Bicyclomycin resistance protein	144	Core	1	15	129	14	100	100	100
+Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB	144	Core	1	15	129	14	100	100	100
+Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	144	Core	1	15	129	14	100	100	100
+Doxorubicin resistance ABC transporter permease protein DrrB	144	Core	1	15	129	14	100	100	100
+Doxorubicin resistance ATP-binding protein DrrA	144	Core	1	15	129	14	100	100	100
+Fosfomycin resistance protein AbaF	144	Core	1	15	129	14	100	100	100
+Linearmycin resistance ATP-binding protein LnrL	144	Core	1	15	129	14	100	100	100
+Multidrug resistance protein 3	144	Core	1	15	129	14	100	100	100
+Multidrug resistance protein Stp	144	Core	1	15	129	14	100	100	100
+Organic hydroperoxide resistance protein OhrB	144	Core	1	15	129	14	100	100	100
+Organic hydroperoxide resistance transcriptional regulator	144	Core	1	15	129	14	100	100	100
+Penicillin-binding protein 1A	144	Core	1	15	129	14	100	100	100
+Penicillin-binding protein A	144	Core	1	15	129	14	100	100	100
+Penicillin-binding protein PbpB	144	Core	1	15	129	14	100	100	100
+putative doxorubicin resistance ABC transporter permease protein DrrC	144	Core	1	15	129	14	100	100	100
+Putative multidrug resistance protein MdtD	144	Core	1	15	129	14	100	100	100
+Tetracycline repressor protein class E	144	Core	1	15	129	14	100	100	100
+Tetracycline resistance protein, class B	144	Core	1	15	129	14	100	100	100

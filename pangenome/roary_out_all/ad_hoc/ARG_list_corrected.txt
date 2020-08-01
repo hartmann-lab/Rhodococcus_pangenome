@@ -1,0 +1,66 @@
+number	gene_product	gene	putative_resistance_class	total_genomes	percent_genomes	pan_fraction	TG9	TG9_category
+1	Tetracycline resistance protein, class B	tetA	tetracyclines	144	100	Core	1	Core
+2	Tetracycline repressor protein class E	tetR	tetracyclines	144	100	Core	1	Core
+3	Fosfomycin resistance protein AbaF	abaF	antimicrobial_other	144	100	Core	1	Core
+4	Bicyclomycin resistance protein	bcr	antimicrobial_other	144	100	Core	1	Core
+5	Linearmycin resistance ATP-binding protein LnrL	lnrL	antimicrobial_other	144	100	Core	1	Core
+6	Multidrug resistance protein 3	bmr3	multidrug	144	100	Core	1	Core
+7	Multidrug efflux pump LfrA	lfrA	multidrug	144	100	Core	1	Core
+8	Putative multidrug resistance protein MdtD	mdtD	multidrug	144	100	Core	1	Core
+9	Multidrug resistance protein Stp	stp	multidrug	144	100	Core	1	Core
+10	Multidrug efflux ATP-binding/permease protein	btuD	multidrug	144	100	Core	1	Core
+11	Multidrug efflux system ATP-binding protein	bcrA	multidrug	144	100	Core	1	Core
+12	Antiseptic resistance protein	qacA	antimicrobial_other	144	100	Core	1	Core
+13	Organic hydroperoxide resistance protein OhrB	ohrB	antimicrobial_other	144	100	Core	1	Core
+14	Organic hydroperoxide resistance transcriptional regulator	ohrR	antimicrobial_other	144	100	Core	1	Core
+15	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	drrA	antitumor*	144	100	Core	1	Core
+16	Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB	drrB	antitumor*	144	100	Core	1	Core
+17	putative doxorubicin resistance ABC transporter permease protein DrrC	drrC	antitumor*	144	100	Core	1	Core
+18	Arsenical-resistance protein Acr3	acr3	heavy metal*	143	99.31	Core	1	Core
+19	Multidrug efflux system permease protein	putative_1	multidrug	143	99.31	Core	1	Core
+20	Beta-lactamase regulatory protein BlaB	blaB	B-lactams	100	69.44	Shell	1	Accessory (TG9)
+21	Multidrug efflux system ATP-binding protein	ytrB	multidrug	100	69.44	Shell	1	Accessory (TG9)
+22	Multidrug resistance protein MdtH	mdtH	multidrug	99	68.75	Shell	1	Accessory (TG9)
+23	Phenazine antibiotic resistance protein EhpR	ehpR	antimicrobial_other	70	48.61	Shell	1	Accessory (TG9)
+24	Mitomycin radical oxidase	mcrA	antitumor*	63	43.75	Shell	1	Accessory (TG9)
+25	putative multidrug resistance protein EmrY	emrY	multidrug	58	40.28	Shell	1	Accessory (TG9)
+26	Virginiamycin B lyase	vgb	streptogramins	50	34.72	Shell	1	Accessory (TG9)
+27	Beta-lactamase	blaF	B-lactams	45	31.25	Shell	1	Accessory (TG9)
+28	rifamycin-inactivating phosphotransferase RphC	rphC	rifamycins	20	13.89	Shell	1	Accessory (TG9)
+29	Arsenic resistance transcriptional regulator ArsR1	arsR1	heavy metal*	15	10.42	Shell	1	Accessory (TG9)
+30	Putative phosphinothricin acetyltransferase YwnH 	ywnH	antimicrobial_other	6	4.17	Cloud	1	Accessory (TG9)
+31	Multidrug efflux ATP-binding/permease protein	yheI	multidrug	130	90.28	Shell	0	Accessory (other strains)
+32	Multidrug efflux protein YfmO	yfmO	multidrug	116	80.56	Shell	0	Accessory (other strains)
+33	Putative aminoglycoside phosphotransferase  	putative_2	aminoglycosides	107	74.31	Shell	0	Accessory (other strains)
+34	Multidrug export protein EmrB	emrB	multidrug	103	71.53	Shell	0	Accessory (other strains)
+35	Multidrug efflux pump Tap	tap	multidrug	102	70.83	Shell	0	Accessory (other strains)
+36	Oleandomycin glycosyltransferase	oleD	macrolides	76	52.78	Shell	0	Accessory (other strains)
+37	Multidrug resistance protein EbrB	ebrB	multidrug	70	48.61	Shell	0	Accessory (other strains)
+38	Multidrug transporter	nepA	multidrug	70	48.61	Shell	0	Accessory (other strains)
+39	Multidrug resistance protein MdtL	mdtL	multidrug	66	45.83	Shell	0	Accessory (other strains)
+40	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA	bmrA	multidrug	58	40.28	Shell	0	Accessory (other strains)
+41	Tetracycline repressor protein class B from transposon Tn10	tetR_2	tetracyclines	56	38.89	Shell	0	Accessory (other strains)
+42	Streptogramin A acetyltransferase 	vatD	streptogramins	49	34.03	Shell	0	Accessory (other strains)
+43	Fosmidomycin resistance protein	fsr	antimicrobial_other	46	31.94	Shell	0	Accessory (other strains)
+44	Quinolone resistance protein NorB	norB	quinolones	46	31.94	Shell	0	Accessory (other strains)
+45	Arsenical resistance operon trans-acting repressor ArsD	arsD	heavy metal*	44	30.56	Shell	0	Accessory (other strains)
+46	Tunicamycin resistance protein	tmrB	antimicrobial_other	40	27.78	Shell	0	Accessory (other strains)
+47	Multidrug resistance protein MdtG	mdtG	multidrug	39	27.08	Shell	0	Accessory (other strains)
+48	Tetracycline repressor protein class H	tetR_3	tetracyclines	38	26.39	Shell	0	Accessory (other strains)
+49	Mercuric resistance operon regulatory protein	merR1	heavy metal*	24	16.67	Shell	0	Accessory (other strains)
+50	Aminoglycoside 3'-phosphotransferase 	aphA4	aminoglycosides	19	13.19	Shell	0	Accessory (other strains)
+51	Aminoglycoside N(6')-acetyltransferase type 1  	aacA4	aminoglycosides	16	11.11	Shell	0	Accessory (other strains)
+52	Tetracycline repressor protein class A from transposon 1721	tetR_4	tetracyclines	16	11.11	Shell	0	Accessory (other strains)
+53	SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD	yokD	aminoglycosides	15	10.42	Shell	0	Accessory (other strains)
+54	Bleomycin resistance protein	ble	antitumor*	14	9.72	Shell	0	Accessory (other strains)
+55	Cadmium resistance transcriptional regulatory protein CadC	cadC	heavy metal*	14	9.72	Shell	0	Accessory (other strains)
+56	Macrolide export ATP-binding/permease protein MacB	macB	macrolides	14	9.72	Shell	0	Accessory (other strains)
+57	Multidrug export protein MepA	mepA	multidrug	13	9.03	Shell	0	Accessory (other strains)
+58	Multidrug-efflux transporter 1 regulator	bmrR	multidrug	12	8.33	Shell	0	Accessory (other strains)
+59	Metallothiol transferase FosB 	fosB	antimicrobial_other	6	4.17	Cloud	0	Accessory (other strains)
+60	Quinolone resistance transporter	abaQ	quinolones	5	3.47	Cloud	0	Accessory (other strains)
+61	Beta-lactamase 1	penPC	B-lactams	3	2.08	Cloud	0	Accessory (other strains)
+62	Bifunctional polymyxin resistance protein ArnA	arnA	polymyxins	1	0.69	Cloud	0	Accessory (other strains)
+63	Multidrug resistance protein MdtK	mdtK	multidrug	1	0.69	Cloud	0	Accessory (other strains)
+64	Multidrug resistance protein Mmr	mmr	multidrug	1	0.69	Cloud	0	Accessory (other strains)
+65	Aminoglycoside 3'-phosphotransferase 	neo	aminoglycosides	1	0.69	Cloud	0	Accessory (other strains)
