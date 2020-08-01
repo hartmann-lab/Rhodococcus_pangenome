@@ -1,0 +1,42 @@
+#!/bin/bash
+#<add job submission details>
+
+cd <path to rhodococcus_pangenome>
+
+###
+### Build Rhodococcus pangenome with Roary (Page et al. 2015)
+###
+
+## create pangenome directory; set input as .gff files from prokka output
+mkdir pangenome/input
+cd pangenome/input
+cp <path to rhodococcus_pangenome>/ncbi_genomes/high_quality/prokka_out*/*.gff.gz
+
+## unzip files and navigate
+gunzip *.gz
+cd <path to rhodococcus_pangenome>/pangenome
+
+## run roary with 50% blast identity (for genus-level analysis)
+module load python/anaconda3
+roary -e --mafft -p 18 input/3B/*.gff -i 50 -cd 95 -f roary_out_all
+
+
+###
+### Build pangenome of TG9 clade (i.e., subset of genomes in 3B in Fig. 3)
+###
+
+## set input as .gff files from prokka output for the specific genome assemblies
+mkdir input_3B
+cd input_3B
+cp <path to the individual .gff.gz files for genomes from 3B>
+
+## unzip files and navigate
+gunzip *.gz
+cd <path to rhodococcus_pangenome>/pangenome
+
+## run roary with 50% blast identity (for genus-level analysis)
+module load python/anaconda3
+roary -e --mafft -p 18 input_3B/*.gff -i 50 -cd 95 -f roary_out_3B
+
+
+

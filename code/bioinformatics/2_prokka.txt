@@ -1,0 +1,24 @@
+#!/bin/bash
+#<add job submission details>
+
+cd <path to rhodococcus_pangenome>
+
+###
+### Prokka for genome assembly annotation (Seeman 2014)
+###
+
+## navigate directory to prep files
+cd ncbi_genomes/high_quality/
+gunzip *.gz
+
+## load Prokka (this example requires prior installation of prokka.sif in the directory)
+module load singularity
+
+## use loop to run program on all files
+files_annotate=`ls | grep "fna"`
+for fna in $files_annotate; do annotate=`echo $fna | cut -d "." -f1`_prok; singularity exec prokka.sif prokka --kingdom Bacteria --genus Rhodococcus --usegenus --outdir prokka_out/$annotate --locustag $annotate --prefix $annotate $fna; done
+
+## zip files
+gzip *.fna
+gzip prokka_out/*/*
+

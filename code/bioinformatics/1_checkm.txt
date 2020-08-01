@@ -1,0 +1,23 @@
+#!/bin/bash
+#<add job submission details>
+
+cd <path to rhodococcus_pangenome>
+
+###
+### CheckM for genome assembly QUALITY CONTROL (Parks et al. 2015)
+###
+
+## unzip files
+gunzip ncbi_genomes/*.gz
+
+## run check on all files (397 genome assemblies)
+module load checkm
+checkm taxonomy_wf genus Rhodococcus ncbi_genomes/ checkm_out/ -x fna -t 24 -f checkm_out/checkm_list.txt
+
+## zip files
+gzip genome_assemblies/*
+
+
+###
+### Note: all high-quality genomes (i.e., >99% completeness and <1% contamination) were transferred to the rhodococcus_pangenome/ncbi_genomes/high_quality directory for processing with prokka
+###

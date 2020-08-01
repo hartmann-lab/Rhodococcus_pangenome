@@ -1,0 +1,6 @@
+### 
+### Build phylogenetic tree from core gene alignment data using FastTree (Price et al. 2010)
+###
+
+# FastTree: Core gene alignment (dir: roary_out/)
+FastTree -nt -gtr < core_gene_alignment.aln > ad_hoc/core_gene_aln_tree.newick
